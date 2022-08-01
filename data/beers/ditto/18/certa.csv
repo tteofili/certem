@@ -1,0 +1,3 @@
+,label,ltable_Beer_Name,ltable_Brew_Factory_Name,ltable_Style,ltable_ABV,rtable_Beer_Name,rtable_Brew_Factory_Name,rtable_Style,rtable_ABV,match_score,nomatch_score,alteredAttributes,droppedValues,copiedValues,triangle,attr_count
+0,,Rock Bottom Red Ale,Rock Bottom Restaurant & Brewery,American Amber / Red Ale,5.60 %,Rock Bottom,Rock Bottom La Jolla,Amber Ale,5.40 %,0.9583646655082703,0.041635334491729736,"('rtable_Beer_Name',)",['Rock Bottom La Jolla Ragtop Red Ale'],['Rock Bottom'],1@18535 0@200 1@559,2
+3,,Rock Bottom Red Ale,Rock Bottom Restaurant & Brewery,American Amber / Red Ale,5.60 %,Red Ale,Rock Bottom La Jolla,Amber Ale,5.40 %,0.8736637830734253,0.1263362169265747,"('rtable_Beer_Name',)",['Rock Bottom La Jolla Ragtop Red Ale'],['Red Ale'],1@12512 0@200 1@559,2
