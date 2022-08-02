@@ -16,7 +16,7 @@ rankdir=BT
 "{'rtable_Brew_Factory_Name'}" -> "{'rtable_Brew_Factory_Name', 'rtable_Beer_Name'}";
 "{'rtable_Brew_Factory_Name'}" -> "{'rtable_Style', 'rtable_Brew_Factory_Name'}";
 "{'rtable_Brew_Factory_Name'}" -> "{'rtable_ABV', 'rtable_Brew_Factory_Name'}";
-"{'rtable_Style'}" [color=green];
+"{'rtable_Style'}" [color=red];
 "{'rtable_Style'}" -> "{'rtable_Style', 'rtable_Beer_Name'}";
 "{'rtable_Style'}" -> "{'rtable_Style', 'rtable_Brew_Factory_Name'}";
 "{'rtable_Style'}" -> "{'rtable_ABV', 'rtable_Style'}";

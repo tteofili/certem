@@ -1,11 +1,11 @@
 ,ltable_Beer_Name,ltable_Brew_Factory_Name,ltable_Style,ltable_ABV,rtable_Beer_Name,rtable_Brew_Factory_Name,rtable_Style,rtable_ABV,label
-0,Clifford 's Big Red Ale,Tarraco Beer,American Amber / Red Ale,9.70 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,-,1
-1,Clifford 's Big Red Ale,Funky Buddha Brewery,American Amber / Red Ale,8.20 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,-,1
-2,Clifford 's Big Red Ale,Funky Buddha Brewery,American Amber / Red Ale,9.70 %,Big Island Red Giant Ale,Big Island Brewhaus,Spice/Herb/Vegetable,6.50 %,0
-3,Clifford 's Big Red Ale,Funky Buddha Brewery,American Amber / Red Ale,9.70 %,Big Island Red Giant Ale,Big Island Brewhaus,Altbier,8.79 %,1
-4,Clifford 's Big Red Ale,Funky Buddha Brewery,American Amber / Red Ale,9.70 %,Brannon_s Deputation Imperial Red Ale,Big Island Brewhaus,American Strong Ale,-,0
-5,Red Hopper ( Imperial Red Ale ),Funky Buddha Brewery,American Amber / Red Ale,9.70 %,Big Island Red Giant Ale,Big Island Brewhaus,Amber Ale,6.50 %,1
-6,Twisted Stick Amber Ale,Funky Buddha Brewery,American Amber / Red Ale,9.70 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,4.50 %,0
-7,Clifford 's Big Red Ale,Phillips Brewing Company,American Amber / Red Ale,7.40 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,6.50 %,0
-8,Rocket City Red,Funky Buddha Brewery,American Amber / Red Ale,9.70 %,Big Island Red Giant Ale,Sick N Twisted Brewing Company,American Strong Ale,6.50 %,0
-9,Clifford 's Big Red Ale,Funky Buddha Brewery,American Amber / Red Ale,6.90 %,Big Island Red Giant Ale,Scuttlebutt Brewing Co. .,American Strong Ale,6.50 %,0
+0,Jazz Beer Tarraco Amber,Straight To Ale,American Amber / Red Ale,5.00 %,Rude Hippo Honey Basil Amber,Sawdust City Brewing Company,Spice/Herb/Vegetable,5.20 %,1
+1,Rocket City Red,Phillips Brewing Company,American Amber / Red Ale,5.00 %,Sawdust City Red Rocket Coffee Spiced Stout,Sawdust City Brewing Company,Spice/Herb/Vegetable,5.50 %,0
+2,Bulleit Bourbon Barrel Aged G'Knight,Straight To Ale,American Amber / Red Ale,5.00 %,Sawdust City Red Rocket Coffee Spiced Stout,Sawdust City Brewing Company,Spice/Herb/Vegetable,7.10 %,0
+3,Rocket City Red,Portneuf Valley Brewing,American Amber / Red Ale,5.00 %,Sawdust City Red Rocket Coffee Spiced Stout,Sick N Twisted Brewing Company,Spice/Herb/Vegetable,5.20 %,0
+4,Rocket City Red,Funky Buddha Brewery,American Amber / Red Ale,5.00 %,Jazz Beer Tarraco Amber,Sawdust City Brewing Company,Spice/Herb/Vegetable,5.20 %,1
+5,Rocket City Red,Straight To Ale,American Amber / Red Ale,5.00 %,Sawdust City Red Rocket Coffee Spiced Stout,Big Island Brewhaus,Altbier,5.20 %,1
+6,Double Dragon Imperial Red Ale,Straight To Ale,American Amber / Red Ale,5.00 %,Sawdust City Red Rocket Coffee Spiced Stout,Sawdust City Brewing Company,Spice/Herb/Vegetable,6.50 %,0
+7,Rocket City Red,Straight To Ale,American Amber / Red Ale,5.00 %,Jazz Beer Tarraco Amber,Sawdust City Brewing Company,Barley Wine,5.20 %,1
+8,Rocket City Red,Straight To Ale,American Amber / Red Ale,5.00 %,Big Island Red Giant Ale,Sawdust City Brewing Company,Amber Ale,5.20 %,1
+9,Rocket City Red,Straight To Ale,American Amber / Red Ale,8.70 %,Sawdust City Red Rocket Coffee Spiced Stout,Scuttlebutt Brewing Co. .,Spice/Herb/Vegetable,5.20 %,1

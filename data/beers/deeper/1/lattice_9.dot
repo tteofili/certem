@@ -12,7 +12,7 @@ rankdir=BT
 "{'rtable_Beer_Name'}" -> "{'rtable_Brew_Factory_Name', 'rtable_Beer_Name'}";
 "{'rtable_Beer_Name'}" -> "{'rtable_Style', 'rtable_Beer_Name'}";
 "{'rtable_Beer_Name'}" -> "{'rtable_ABV', 'rtable_Beer_Name'}";
-"{'rtable_Brew_Factory_Name'}" [color=red];
+"{'rtable_Brew_Factory_Name'}" [color=green];
 "{'rtable_Brew_Factory_Name'}" -> "{'rtable_Brew_Factory_Name', 'rtable_Beer_Name'}";
 "{'rtable_Brew_Factory_Name'}" -> "{'rtable_Style', 'rtable_Brew_Factory_Name'}";
 "{'rtable_Brew_Factory_Name'}" -> "{'rtable_ABV', 'rtable_Brew_Factory_Name'}";
@@ -33,10 +33,10 @@ rankdir=BT
 "{'rtable_ABV', 'rtable_Beer_Name'}" [color=green];
 "{'rtable_ABV', 'rtable_Beer_Name'}" -> "{'rtable_ABV', 'rtable_Brew_Factory_Name', 'rtable_Beer_Name'}";
 "{'rtable_ABV', 'rtable_Beer_Name'}" -> "{'rtable_ABV', 'rtable_Style', 'rtable_Beer_Name'}";
-"{'rtable_Style', 'rtable_Brew_Factory_Name'}" [color=red];
+"{'rtable_Style', 'rtable_Brew_Factory_Name'}" [color=green];
 "{'rtable_Style', 'rtable_Brew_Factory_Name'}" -> "{'rtable_Style', 'rtable_Brew_Factory_Name', 'rtable_Beer_Name'}";
 "{'rtable_Style', 'rtable_Brew_Factory_Name'}" -> "{'rtable_ABV', 'rtable_Style', 'rtable_Brew_Factory_Name'}";
-"{'rtable_ABV', 'rtable_Brew_Factory_Name'}" [color=red];
+"{'rtable_ABV', 'rtable_Brew_Factory_Name'}" [color=green];
 "{'rtable_ABV', 'rtable_Brew_Factory_Name'}" -> "{'rtable_ABV', 'rtable_Brew_Factory_Name', 'rtable_Beer_Name'}";
 "{'rtable_ABV', 'rtable_Brew_Factory_Name'}" -> "{'rtable_ABV', 'rtable_Style', 'rtable_Brew_Factory_Name'}";
 "{'rtable_ABV', 'rtable_Style'}" [color=red];
@@ -48,7 +48,7 @@ rankdir=BT
 "{'rtable_ABV', 'rtable_Brew_Factory_Name', 'rtable_Beer_Name'}" -> "{'rtable_ABV', 'rtable_Style', 'rtable_Brew_Factory_Name', 'rtable_Beer_Name'}";
 "{'rtable_ABV', 'rtable_Style', 'rtable_Beer_Name'}" [color=green];
 "{'rtable_ABV', 'rtable_Style', 'rtable_Beer_Name'}" -> "{'rtable_ABV', 'rtable_Style', 'rtable_Brew_Factory_Name', 'rtable_Beer_Name'}";
-"{'rtable_ABV', 'rtable_Style', 'rtable_Brew_Factory_Name'}" [color=red];
+"{'rtable_ABV', 'rtable_Style', 'rtable_Brew_Factory_Name'}" [color=green];
 "{'rtable_ABV', 'rtable_Style', 'rtable_Brew_Factory_Name'}" -> "{'rtable_ABV', 'rtable_Style', 'rtable_Brew_Factory_Name', 'rtable_Beer_Name'}";
 "{'rtable_ABV', 'rtable_Style', 'rtable_Brew_Factory_Name', 'rtable_Beer_Name'}" [color=green];
 }

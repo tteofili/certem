@@ -1,11 +1,11 @@
 ,ltable_Beer_Name,ltable_Brew_Factory_Name,ltable_Style,ltable_ABV,rtable_Beer_Name,rtable_Brew_Factory_Name,rtable_Style,rtable_ABV,label
-0,Real McCoy Amber Ale,Mammoth Brewing Company,American Amber / Red Ale,5.00 %,Mammoth Real McCoy Amber Ale,Ca l_Arenys - Cervezas Guineu,Altbier,4.50 %,0
-1,Real McCoy Amber Ale,Mammoth Brewing Company,American Amber / Red Ale,4.50 %,Mammoth Real McCoy Amber Ale,Figure Eight Brewing,Altbier,8.79 %,0
-2,Double Dragon Imperial Red Ale,Mammoth Brewing Company,American Amber / Red Ale,4.50 %,Mammoth Real McCoy Amber Ale,Mammoth Brewing Company,Barley Wine,4.50 %,0
-3,Real McCoy Amber Ale,Black Acre Brewing Co. .,American Amber / Red Ale,4.50 %,Mammoth Real McCoy Amber Ale,Mammoth Brewing Company,Altbier,6.90 %,0
-4,Real McCoy Amber Ale,Straight To Ale,American Amber / Red Ale,4.50 %,Mammoth Real McCoy Amber Ale,Sawdust City Brewing Company,Altbier,4.50 %,0
-5,Real McCoy Amber Ale,Straight To Ale,American Amber / Red Ale,4.50 %,Mammoth Real McCoy Amber Ale,Brannon_s Pub and Brewery,Altbier,4.50 %,0
-6,Real McCoy Amber Ale,Phillips Brewing Company,American Amber / Red Ale,4.50 %,Mammoth Real McCoy Amber Ale,Mammoth Brewing Company,Barley Wine,4.50 %,0
-7,Real McCoy Amber Ale,Straight To Ale,American Amber / Red Ale,4.50 %,Figure Eight Bourbon Barrel Aged Jumbo Love,Mammoth Brewing Company,Altbier,4.50 %,0
-8,Real McCoy Amber Ale,Rude Hippo Brewing Company,American Amber / Red Ale,4.50 %,Mammoth Real McCoy Amber Ale,Mammoth Brewing Company,Altbier,4.50 %,0
-9,Real McCoy Amber Ale,Oskar Blues Grill & Brew,American Amber / Red Ale,4.50 %,Mammoth Real McCoy Amber Ale,Brannon_s Pub and Brewery,Altbier,4.50 %,0
+0,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Heavy Seas Brewing Company,Spice/Herb/Vegetable,6.90 %,0
+1,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Figure Eight Brewing,Barley Wine,6.90 %,0
+2,Honey Basil Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Figure Eight Brewing,Amber Ale,6.90 %,1
+3,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Mammoth Brewing Company,Amber Ale,6.90 %,0
+4,Rocket City Red,Tarraco Beer,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,1
+5,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Big Island Brewhaus,Spice/Herb/Vegetable,6.90 %,0
+6,Jazz Beer Tarraco Amber,Rude Hippo Brewing Company,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Heavy Seas Brewing Company,Amber Ale,6.90 %,0
+7,Jazz Beer Tarraco Amber,Straight To Ale,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Figure Eight Brewing,Amber Ale,6.90 %,0
+8,Honey Basil Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,1
+9,Jazz Beer Tarraco Amber,Black Acre Brewing Co. .,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Mammoth Brewing Company,Amber Ale,6.90 %,0
