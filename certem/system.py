@@ -1,23 +1,20 @@
-from pandas.io.common import file_exists
 import os
 import pandas as pd
-from certa.utils import merge_sources
 import ipywidgets as widgets
 from IPython.display import display
 from matplotlib import pyplot as plt
-import numpy as np
 
 
 def custom_plot(df, name):
     f1 = plt.figure()
     ax1 = f1.add_subplot(111)
     df.plot(kind = 'bar',ax=ax1)
-    img_path = '..data/img/'+name+'.png'
+    img_path = 'data/img/'+name+'.png'
     plt.savefig(img_path)
     plt.close()
     return  [f1, img_path]
 
-datasets = [name for name in os.listdir("..data") ]
+datasets = [name for name in os.listdir("data") ]
 
 datasets_dropdown = widgets.Dropdown(
     options=datasets,
@@ -64,8 +61,12 @@ box_layout = widgets.Layout(display='flex',
                 flex_flow='column',
                 align_items='center')
 
+
+#out2 = widgets.interactive_output(f2, {'dataset': datasets_dropdown, 'deeper': de_cb, 'dm': dm_cb, 'ditto':dt_cb, 'selected_item': selected_item})
+out2 = widgets.Output()
+
 def f(dataset, deeper, dm, ditto, pred_filter, gt_filter):
-  samples = pd.read_csv('..data/'+dataset+'/samples.csv')
+  samples = pd.read_csv('data/'+dataset+'/samples.csv')
   if not deeper:
     samples = samples.drop(['DeepER'], axis=1)
   if not dm:
@@ -91,18 +92,18 @@ def f(dataset, deeper, dm, ditto, pred_filter, gt_filter):
       cfs = dict()
       item_idx = int(b.description[-1])
       if deeper:
-        saliency = pd.read_csv('..data/'+dataset+'/DeepER/certa.csv')['explanation'].iloc[item_idx]
-        first_cf = pd.read_csv('..data/'+dataset+'/DeepER/'+str(idx)+'/certa.csv').iloc[0]
+        saliency = pd.read_csv('data/'+dataset+'/DeepER/certa.csv')['explanation'].iloc[item_idx]
+        first_cf = pd.read_csv('data/'+dataset+'/DeepER/'+str(idx)+'/certa.csv').iloc[0]
         saliencies['DeepER'] = saliency
         cfs['DeepER'] = first_cf
       if dm:
-        saliency = pd.read_csv('..data/'+dataset+'/DeepMatcher/certa.csv')['explanation'].iloc[item_idx]
-        first_cf = pd.read_csv('..data/'+dataset+'/DeepMatcher/'+str(idx)+'/certa.csv').iloc[0]
+        saliency = pd.read_csv('data/'+dataset+'/DeepMatcher/certa.csv')['explanation'].iloc[item_idx]
+        first_cf = pd.read_csv('data/'+dataset+'/DeepMatcher/'+str(idx)+'/certa.csv').iloc[0]
         saliencies['DeepMatcher'] = saliency
         cfs['DeepMatcher'] = first_cf
       if ditto:
-        saliency = pd.read_csv('..data/'+dataset+'/Ditto/certa.csv')['explanation'].iloc[item_idx]
-        first_cf = pd.read_csv('..data/'+dataset+'/Ditto/'+str(idx)+'/certa.csv').iloc[0]
+        saliency = pd.read_csv('data/'+dataset+'/Ditto/certa.csv')['explanation'].iloc[item_idx]
+        first_cf = pd.read_csv('data/'+dataset+'/Ditto/'+str(idx)+'/certa.csv').iloc[0]
         saliencies['Ditto'] = saliency
         cfs['Ditto'] = first_cf
       with out2:
@@ -122,15 +123,14 @@ def f(dataset, deeper, dm, ditto, pred_filter, gt_filter):
   buttons_box = widgets.HBox(buttons)
   display(samples, buttons_box, out2)
 
+out = widgets.interactive_output(f, {'dataset': datasets_dropdown, 'deeper': de_cb, 'dm': dm_cb, 'ditto':dt_cb, 'pred_filter': pred_filter, 'gt_filter': gt_filter})
+
+
 '''def f2(datasets_dropdown, de_cb, dm_cb, dt_cb, selected_items):
   for selected in selected_items:
     if selected:
       break
 '''
-
-out = widgets.interactive_output(f, {'dataset': datasets_dropdown, 'deeper': de_cb, 'dm': dm_cb, 'ditto':dt_cb, 'pred_filter': pred_filter, 'gt_filter': gt_filter})
-#out2 = widgets.interactive_output(f2, {'dataset': datasets_dropdown, 'deeper': de_cb, 'dm': dm_cb, 'ditto':dt_cb, 'selected_item': selected_item})
-out2 = widgets.Output()
 
 first_box = widgets.VBox([datasets_dropdown])
 second_box = widgets.HBox([sys_label, widgets.VBox([de_cb, dm_cb, dt_cb])])

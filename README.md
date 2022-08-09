@@ -1,5 +1,12 @@
 # CERTEM
-Explanation system for Entity Resolution based on CERTA framework
+Explanation system for Entity Resolution based on CERTA framework.
+
+# Instructions
+
+In order to run *CERTEM* within a _Jupyter Notebook_ you just need to import ``certem.system`` and then run `display(system.ui)`.
+![](screenshot.png)
+*CERTEM UI*
+
 
 # Citing CERTEM
 
