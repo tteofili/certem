@@ -83,11 +83,11 @@ def f(dataset, deeper, dm, ditto, pred_filter, gt_filter):
     samples = samples[('DeepER' in samples.columns and samples['DeepER']>0.5) | ('DeepMatcher' in samples.columns and samples['DeepMatcher']>0.5) | ('Ditto' in samples.columns and samples['Ditto']>0.5)]
   samples = samples.loc[:, ~samples.columns.str.contains('^Unnamed')]
   buttons = []
-  out2.clear_output()
+  #out2.clear_output()
   for idx in range(len(samples)):
     button = widgets.Button(description="Explain Item "+str(idx))
     def on_button_clicked(b):
-      out2.clear_output()
+      #out2.clear_output()
       saliencies = dict()
       cfs = dict()
       item_idx = int(b.description[-1])
@@ -106,18 +106,18 @@ def f(dataset, deeper, dm, ditto, pred_filter, gt_filter):
         first_cf = pd.read_csv('data/'+dataset+'/Ditto/'+str(idx)+'/certa.csv').iloc[0]
         saliencies['Ditto'] = saliency
         cfs['Ditto'] = first_cf
-      with out2:
-        saliencies_box = []
-        for k in saliencies.keys():
-          saliency_df = pd.DataFrame(eval(saliencies[k]),index=[0])
-          cnv, path = custom_plot(saliency_df, dataset+'_'+k+'_'+str(idx))
-          img = widgets.Image(value=open(path, 'rb').read(), format='png')
-          saliencies_box.append(widgets.VBox([img , widgets.Button(description='Inspect '+k)], layout=box_layout))
-        cfs_df = pd.DataFrame.from_dict(cfs).T.drop(['alteredAttributes', 'attr_count', 'copiedValues', 'droppedValues', 'label', 'triangle', 'nomatch_score'], axis=1)
-        cfs_df['prediction'] = cfs_df['match_score'].copy()
-        cfs_df = cfs_df.drop(['match_score'], axis=1)
-        cfs_df = cfs_df.loc[:, ~cfs_df.columns.str.contains('^Unnamed')]
-        display(widgets.HBox(saliencies_box), cfs_df)
+      saliencies_box = []
+      for k in saliencies.keys():
+        saliency_df = pd.DataFrame(eval(saliencies[k]),index=[0])
+        cnv, path = custom_plot(saliency_df, dataset+'_'+k+'_'+str(idx))
+        img = widgets.Image(value=open(path, 'rb').read(), format='png')
+        saliencies_box.append(widgets.VBox([img , widgets.Button(description='Inspect '+k)], layout=box_layout))
+      cfs_df = pd.DataFrame.from_dict(cfs).T.drop(['alteredAttributes', 'attr_count', 'copiedValues', 'droppedValues', 'label', 'triangle', 'nomatch_score'], axis=1)
+      cfs_df['prediction'] = cfs_df['match_score'].copy()
+      cfs_df = cfs_df.drop(['match_score'], axis=1)
+      cfs_df = cfs_df.loc[:, ~cfs_df.columns.str.contains('^Unnamed')]
+      out2.clear_output()
+      display(widgets.HBox(saliencies_box), cfs_df)
     button.on_click(on_button_clicked)
     buttons.append(button)
   buttons_box = widgets.HBox(buttons)
