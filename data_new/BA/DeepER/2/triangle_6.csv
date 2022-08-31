@@ -1,0 +1,17 @@
+,ltable_Beer_Name,ltable_Brew_Factory_Name,ltable_Style,ltable_ABV,rtable_Beer_Name,rtable_Brew_Factory_Name,rtable_Style,rtable_ABV,alteredAttributes,match_score
+0,Honey Basil Amber,Rude Hippo Brewing Company,American Amber / Red Ale,7.40 %,Fort George Hogfather,Brewery,Imperial Porter,8.20 %,"{'rtable_ABV', 'rtable_Brew_Factory_Name', 'rtable_Style', 'rtable_Beer_Name'}",0.016588930040597916
+15,Honey Basil Amber,Rude Hippo Brewing Company,American Amber / Red Ale,7.40 %,Rude Hippo Honey Basil Amber,18th Street Brewery,Amber Ale,7.40 %,,0.5825655460357666
+1,Honey Basil Amber,Rude Hippo Brewing Company,American Amber / Red Ale,7.40 %,Fort George Hogfather,18th Street Brewery,Amber Ale,7.40 %,"('rtable_Beer_Name',)",0.01658893
+2,Honey Basil Amber,Rude Hippo Brewing Company,American Amber / Red Ale,7.40 %,Rude Hippo Honey Basil Amber,Brewery,Amber Ale,7.40 %,"('rtable_Brew_Factory_Name',)",0.939624
+3,Honey Basil Amber,Rude Hippo Brewing Company,American Amber / Red Ale,7.40 %,Rude Hippo Honey Basil Amber,18th Street Brewery,Imperial Porter,7.40 %,"('rtable_Style',)",0.035789587000000005
+4,Honey Basil Amber,Rude Hippo Brewing Company,American Amber / Red Ale,7.40 %,Rude Hippo Honey Basil Amber,18th Street Brewery,Amber Ale,8.20 %,"('rtable_ABV',)",0.80545205
+5,Honey Basil Amber,Rude Hippo Brewing Company,American Amber / Red Ale,7.40 %,Fort George Hogfather,Brewery,Amber Ale,7.40 %,"('rtable_Beer_Name', 'rtable_Brew_Factory_Name')",0.01658893
+6,Honey Basil Amber,Rude Hippo Brewing Company,American Amber / Red Ale,7.40 %,Fort George Hogfather,18th Street Brewery,Imperial Porter,7.40 %,"('rtable_Beer_Name', 'rtable_Style')",0.01658893
+7,Honey Basil Amber,Rude Hippo Brewing Company,American Amber / Red Ale,7.40 %,Fort George Hogfather,18th Street Brewery,Amber Ale,8.20 %,"('rtable_Beer_Name', 'rtable_ABV')",0.01658893
+8,Honey Basil Amber,Rude Hippo Brewing Company,American Amber / Red Ale,7.40 %,Rude Hippo Honey Basil Amber,Brewery,Imperial Porter,7.40 %,"('rtable_Brew_Factory_Name', 'rtable_Style')",0.6909074000000001
+9,Honey Basil Amber,Rude Hippo Brewing Company,American Amber / Red Ale,7.40 %,Rude Hippo Honey Basil Amber,Brewery,Amber Ale,8.20 %,"('rtable_Brew_Factory_Name', 'rtable_ABV')",0.9468030999999999
+10,Honey Basil Amber,Rude Hippo Brewing Company,American Amber / Red Ale,7.40 %,Rude Hippo Honey Basil Amber,18th Street Brewery,Imperial Porter,8.20 %,"('rtable_Style', 'rtable_ABV')",0.04178865
+11,Honey Basil Amber,Rude Hippo Brewing Company,American Amber / Red Ale,7.40 %,Fort George Hogfather,Brewery,Imperial Porter,7.40 %,"('rtable_Beer_Name', 'rtable_Brew_Factory_Name', 'rtable_Style')",0.01658893
+12,Honey Basil Amber,Rude Hippo Brewing Company,American Amber / Red Ale,7.40 %,Fort George Hogfather,Brewery,Amber Ale,8.20 %,"('rtable_Beer_Name', 'rtable_Brew_Factory_Name', 'rtable_ABV')",0.01658893
+13,Honey Basil Amber,Rude Hippo Brewing Company,American Amber / Red Ale,7.40 %,Fort George Hogfather,18th Street Brewery,Imperial Porter,8.20 %,"('rtable_Beer_Name', 'rtable_Style', 'rtable_ABV')",0.01658893
+14,Honey Basil Amber,Rude Hippo Brewing Company,American Amber / Red Ale,7.40 %,Rude Hippo Honey Basil Amber,Brewery,Imperial Porter,8.20 %,"('rtable_Brew_Factory_Name', 'rtable_Style', 'rtable_ABV')",0.12655562

@@ -1,0 +1,17 @@
+,ltable_Beer_Name,ltable_Brew_Factory_Name,ltable_Style,ltable_ABV,rtable_Beer_Name,rtable_Brew_Factory_Name,rtable_Style,rtable_ABV,alteredAttributes,match_score
+0,Thomas Hooker Old Marley Barleywine,Thomas Hooker Brewing Company,American,10.00 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,"{'ltable_Beer_Name', 'ltable_Style', 'ltable_ABV', 'ltable_Brew_Factory_Name'}",0.288945734500885
+15,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,,0.5935068130493164
+1,Thomas Hooker Old Marley Barleywine,Tarraco Beer,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,"('ltable_Beer_Name',)",0.5108542442321777
+2,Jazz Beer Tarraco Amber,Thomas Hooker Brewing Company,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,"('ltable_Brew_Factory_Name',)",0.6040380001068115
+3,Jazz Beer Tarraco Amber,Tarraco Beer,American,6.90 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,"('ltable_Style',)",0.6249607801437378
+4,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,10.00 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,"('ltable_ABV',)",0.4951547086238861
+5,Thomas Hooker Old Marley Barleywine,Thomas Hooker Brewing Company,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,"('ltable_Beer_Name', 'ltable_Brew_Factory_Name')",0.4636124670505524
+6,Thomas Hooker Old Marley Barleywine,Tarraco Beer,American,6.90 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,"('ltable_Beer_Name', 'ltable_Style')",0.4848917126655578
+7,Thomas Hooker Old Marley Barleywine,Tarraco Beer,American Amber / Red Ale,10.00 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,"('ltable_Beer_Name', 'ltable_ABV')",0.3556528091430664
+8,Jazz Beer Tarraco Amber,Thomas Hooker Brewing Company,American,6.90 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,"('ltable_Brew_Factory_Name', 'ltable_Style')",0.5760536789894104
+9,Jazz Beer Tarraco Amber,Thomas Hooker Brewing Company,American Amber / Red Ale,10.00 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,"('ltable_Brew_Factory_Name', 'ltable_ABV')",0.4444234371185303
+10,Jazz Beer Tarraco Amber,Tarraco Beer,American,10.00 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,"('ltable_Style', 'ltable_ABV')",0.466187596321106
+11,Thomas Hooker Old Marley Barleywine,Thomas Hooker Brewing Company,American,6.90 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,"('ltable_Beer_Name', 'ltable_Brew_Factory_Name', 'ltable_Style')",0.43840035796165466
+12,Thomas Hooker Old Marley Barleywine,Thomas Hooker Brewing Company,American Amber / Red Ale,10.00 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,"('ltable_Beer_Name', 'ltable_Brew_Factory_Name', 'ltable_ABV')",0.31392017006874084
+13,Thomas Hooker Old Marley Barleywine,Tarraco Beer,American,10.00 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,"('ltable_Beer_Name', 'ltable_Style', 'ltable_ABV')",0.3325769305229187
+14,Jazz Beer Tarraco Amber,Thomas Hooker Brewing Company,American,10.00 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,"('ltable_Brew_Factory_Name', 'ltable_Style', 'ltable_ABV')",0.4165645241737366

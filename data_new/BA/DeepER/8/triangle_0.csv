@@ -1,0 +1,17 @@
+,ltable_Beer_Name,ltable_Brew_Factory_Name,ltable_Style,ltable_ABV,rtable_Beer_Name,rtable_Brew_Factory_Name,rtable_Style,rtable_ABV,alteredAttributes,match_score
+0,Lost Dog,Napa Smith Brewery,American,7.20 %,Sick N Twisted Pleasure Victim Amber Ale,Sick N Twisted Brewing Company,Amber Ale,5.50 %,"{'ltable_Beer_Name', 'ltable_Brew_Factory_Name', 'ltable_Style', 'ltable_ABV'}",0.016588930040597916
+15,Twisted Stick Amber Ale,Portneuf Valley Brewing,American Amber / Red Ale,-,Sick N Twisted Pleasure Victim Amber Ale,Sick N Twisted Brewing Company,Amber Ale,5.50 %,,0.6941395998001099
+1,Lost Dog,Portneuf Valley Brewing,American Amber / Red Ale,-,Sick N Twisted Pleasure Victim Amber Ale,Sick N Twisted Brewing Company,Amber Ale,5.50 %,"('ltable_Beer_Name',)",0.9341143
+2,Twisted Stick Amber Ale,Napa Smith Brewery,American Amber / Red Ale,-,Sick N Twisted Pleasure Victim Amber Ale,Sick N Twisted Brewing Company,Amber Ale,5.50 %,"('ltable_Brew_Factory_Name',)",0.98035747
+3,Twisted Stick Amber Ale,Portneuf Valley Brewing,American,-,Sick N Twisted Pleasure Victim Amber Ale,Sick N Twisted Brewing Company,Amber Ale,5.50 %,"('ltable_Style',)",0.9740916999999999
+4,Twisted Stick Amber Ale,Portneuf Valley Brewing,American Amber / Red Ale,7.20 %,Sick N Twisted Pleasure Victim Amber Ale,Sick N Twisted Brewing Company,Amber Ale,5.50 %,"('ltable_ABV',)",0.99378574
+5,Lost Dog,Napa Smith Brewery,American Amber / Red Ale,-,Sick N Twisted Pleasure Victim Amber Ale,Sick N Twisted Brewing Company,Amber Ale,5.50 %,"('ltable_Beer_Name', 'ltable_Brew_Factory_Name')",0.101337
+6,Lost Dog,Portneuf Valley Brewing,American,-,Sick N Twisted Pleasure Victim Amber Ale,Sick N Twisted Brewing Company,Amber Ale,5.50 %,"('ltable_Beer_Name', 'ltable_Style')",0.037134387000000005
+7,Lost Dog,Portneuf Valley Brewing,American Amber / Red Ale,7.20 %,Sick N Twisted Pleasure Victim Amber Ale,Sick N Twisted Brewing Company,Amber Ale,5.50 %,"('ltable_Beer_Name', 'ltable_ABV')",0.34438908
+8,Twisted Stick Amber Ale,Napa Smith Brewery,American,-,Sick N Twisted Pleasure Victim Amber Ale,Sick N Twisted Brewing Company,Amber Ale,5.50 %,"('ltable_Brew_Factory_Name', 'ltable_Style')",0.88311994
+9,Twisted Stick Amber Ale,Napa Smith Brewery,American Amber / Red Ale,7.20 %,Sick N Twisted Pleasure Victim Amber Ale,Sick N Twisted Brewing Company,Amber Ale,5.50 %,"('ltable_Brew_Factory_Name', 'ltable_ABV')",0.09620922
+10,Twisted Stick Amber Ale,Portneuf Valley Brewing,American,7.20 %,Sick N Twisted Pleasure Victim Amber Ale,Sick N Twisted Brewing Company,Amber Ale,5.50 %,"('ltable_Style', 'ltable_ABV')",0.9698110999999999
+11,Lost Dog,Napa Smith Brewery,American,-,Sick N Twisted Pleasure Victim Amber Ale,Sick N Twisted Brewing Company,Amber Ale,5.50 %,"('ltable_Beer_Name', 'ltable_Brew_Factory_Name', 'ltable_Style')",0.34404185
+12,Lost Dog,Napa Smith Brewery,American Amber / Red Ale,7.20 %,Sick N Twisted Pleasure Victim Amber Ale,Sick N Twisted Brewing Company,Amber Ale,5.50 %,"('ltable_Beer_Name', 'ltable_Brew_Factory_Name', 'ltable_ABV')",0.17070608
+13,Lost Dog,Portneuf Valley Brewing,American,7.20 %,Sick N Twisted Pleasure Victim Amber Ale,Sick N Twisted Brewing Company,Amber Ale,5.50 %,"('ltable_Beer_Name', 'ltable_Style', 'ltable_ABV')",0.9755421999999999
+14,Twisted Stick Amber Ale,Napa Smith Brewery,American,7.20 %,Sick N Twisted Pleasure Victim Amber Ale,Sick N Twisted Brewing Company,Amber Ale,5.50 %,"('ltable_Brew_Factory_Name', 'ltable_Style', 'ltable_ABV')",0.98205996

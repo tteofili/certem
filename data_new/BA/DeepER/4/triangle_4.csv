@@ -1,0 +1,17 @@
+,ltable_Beer_Name,ltable_Brew_Factory_Name,ltable_Style,ltable_ABV,rtable_Beer_Name,rtable_Brew_Factory_Name,rtable_Style,rtable_ABV,alteredAttributes,match_score
+0,Real McCoy Amber Ale,Mammoth Brewing Company,American Amber / Red Ale,4.50 %,Red Ale,Marshall Wharf Brewing Company,Amber Ale,4.50 %,"{'rtable_ABV', 'rtable_Brew_Factory_Name', 'rtable_Style', 'rtable_Beer_Name'}",0.9766191840171814
+15,Real McCoy Amber Ale,Mammoth Brewing Company,American Amber / Red Ale,4.50 %,Mammoth Real McCoy Amber Ale,Mammoth Brewing Company,Altbier,4.50 %,,0.01998080313205719
+1,Real McCoy Amber Ale,Mammoth Brewing Company,American Amber / Red Ale,4.50 %,Red Ale,Mammoth Brewing Company,Altbier,4.50 %,"('rtable_Beer_Name',)",0.9545665999999999
+2,Real McCoy Amber Ale,Mammoth Brewing Company,American Amber / Red Ale,4.50 %,Mammoth Real McCoy Amber Ale,Marshall Wharf Brewing Company,Altbier,4.50 %,"('rtable_Brew_Factory_Name',)",0.01658893
+3,Real McCoy Amber Ale,Mammoth Brewing Company,American Amber / Red Ale,4.50 %,Mammoth Real McCoy Amber Ale,Mammoth Brewing Company,Amber Ale,4.50 %,"('rtable_Style',)",0.56288815
+4,Real McCoy Amber Ale,Mammoth Brewing Company,American Amber / Red Ale,4.50 %,Mammoth Real McCoy Amber Ale,Mammoth Brewing Company,Altbier,4.50 %,"('rtable_ABV',)",0.20098692
+5,Real McCoy Amber Ale,Mammoth Brewing Company,American Amber / Red Ale,4.50 %,Red Ale,Marshall Wharf Brewing Company,Altbier,4.50 %,"('rtable_Beer_Name', 'rtable_Brew_Factory_Name')",0.98691547
+6,Real McCoy Amber Ale,Mammoth Brewing Company,American Amber / Red Ale,4.50 %,Red Ale,Mammoth Brewing Company,Amber Ale,4.50 %,"('rtable_Beer_Name', 'rtable_Style')",0.96096504
+7,Real McCoy Amber Ale,Mammoth Brewing Company,American Amber / Red Ale,4.50 %,Red Ale,Mammoth Brewing Company,Altbier,4.50 %,"('rtable_Beer_Name', 'rtable_ABV')",0.9880774999999999
+8,Real McCoy Amber Ale,Mammoth Brewing Company,American Amber / Red Ale,4.50 %,Mammoth Real McCoy Amber Ale,Marshall Wharf Brewing Company,Amber Ale,4.50 %,"('rtable_Brew_Factory_Name', 'rtable_Style')",0.01658893
+9,Real McCoy Amber Ale,Mammoth Brewing Company,American Amber / Red Ale,4.50 %,Mammoth Real McCoy Amber Ale,Marshall Wharf Brewing Company,Altbier,4.50 %,"('rtable_Brew_Factory_Name', 'rtable_ABV')",0.056709774000000004
+10,Real McCoy Amber Ale,Mammoth Brewing Company,American Amber / Red Ale,4.50 %,Mammoth Real McCoy Amber Ale,Mammoth Brewing Company,Amber Ale,4.50 %,"('rtable_Style', 'rtable_ABV')",0.28676325
+11,Real McCoy Amber Ale,Mammoth Brewing Company,American Amber / Red Ale,4.50 %,Red Ale,Marshall Wharf Brewing Company,Amber Ale,4.50 %,"('rtable_Beer_Name', 'rtable_Brew_Factory_Name', 'rtable_Style')",0.9529073
+12,Real McCoy Amber Ale,Mammoth Brewing Company,American Amber / Red Ale,4.50 %,Red Ale,Marshall Wharf Brewing Company,Altbier,4.50 %,"('rtable_Beer_Name', 'rtable_Brew_Factory_Name', 'rtable_ABV')",0.9869155999999999
+13,Real McCoy Amber Ale,Mammoth Brewing Company,American Amber / Red Ale,4.50 %,Red Ale,Mammoth Brewing Company,Amber Ale,4.50 %,"('rtable_Beer_Name', 'rtable_Style', 'rtable_ABV')",0.9609653
+14,Real McCoy Amber Ale,Mammoth Brewing Company,American Amber / Red Ale,4.50 %,Mammoth Real McCoy Amber Ale,Marshall Wharf Brewing Company,Amber Ale,4.50 %,"('rtable_Brew_Factory_Name', 'rtable_Style', 'rtable_ABV')",0.01658893

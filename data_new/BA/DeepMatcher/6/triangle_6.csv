@@ -1,0 +1,17 @@
+,ltable_Beer_Name,ltable_Brew_Factory_Name,ltable_Style,ltable_ABV,rtable_Beer_Name,rtable_Brew_Factory_Name,rtable_Style,rtable_ABV,alteredAttributes,match_score
+0,Rocket City Red,Straight To Ale,American Amber / Red Ale,5.00 %,Red Ale,Nausta Bryggeri,Amber Ale,5 %,"{'rtable_Beer_Name', 'rtable_Style', 'rtable_ABV', 'rtable_Brew_Factory_Name'}",0.5425843000411987
+15,Rocket City Red,Straight To Ale,American Amber / Red Ale,5.00 %,Sawdust City Red Rocket Coffee Spiced Stout,Sawdust City Brewing Company,Spice/Herb/Vegetable,5.20 %,,0.2946451008319855
+1,Rocket City Red,Straight To Ale,American Amber / Red Ale,5.00 %,Red Ale,Sawdust City Brewing Company,Spice/Herb/Vegetable,5.20 %,"('rtable_Beer_Name',)",0.5840855836868286
+2,Rocket City Red,Straight To Ale,American Amber / Red Ale,5.00 %,Sawdust City Red Rocket Coffee Spiced Stout,Nausta Bryggeri,Spice/Herb/Vegetable,5.20 %,"('rtable_Brew_Factory_Name',)",0.31587865948677063
+3,Rocket City Red,Straight To Ale,American Amber / Red Ale,5.00 %,Sawdust City Red Rocket Coffee Spiced Stout,Sawdust City Brewing Company,Amber Ale,5.20 %,"('rtable_Style',)",0.2979945838451385
+4,Rocket City Red,Straight To Ale,American Amber / Red Ale,5.00 %,Sawdust City Red Rocket Coffee Spiced Stout,Sawdust City Brewing Company,Spice/Herb/Vegetable,5 %,"('rtable_ABV',)",0.3792105317115784
+5,Rocket City Red,Straight To Ale,American Amber / Red Ale,5.00 %,Red Ale,Nausta Bryggeri,Spice/Herb/Vegetable,5.20 %,"('rtable_Beer_Name', 'rtable_Brew_Factory_Name')",0.6071696877479553
+6,Rocket City Red,Straight To Ale,American Amber / Red Ale,5.00 %,Red Ale,Sawdust City Brewing Company,Amber Ale,5.20 %,"('rtable_Beer_Name', 'rtable_Style')",0.5883694291114807
+7,Rocket City Red,Straight To Ale,American Amber / Red Ale,5.00 %,Red Ale,Sawdust City Brewing Company,Spice/Herb/Vegetable,5 %,"('rtable_Beer_Name', 'rtable_ABV')",0.6728272438049316
+8,Rocket City Red,Straight To Ale,American Amber / Red Ale,5.00 %,Sawdust City Red Rocket Coffee Spiced Stout,Nausta Bryggeri,Amber Ale,5.20 %,"('rtable_Brew_Factory_Name', 'rtable_Style')",0.3176373839378357
+9,Rocket City Red,Straight To Ale,American Amber / Red Ale,5.00 %,Sawdust City Red Rocket Coffee Spiced Stout,Nausta Bryggeri,Spice/Herb/Vegetable,5 %,"('rtable_Brew_Factory_Name', 'rtable_ABV')",0.4012449979782105
+10,Rocket City Red,Straight To Ale,American Amber / Red Ale,5.00 %,Sawdust City Red Rocket Coffee Spiced Stout,Sawdust City Brewing Company,Amber Ale,5 %,"('rtable_Style', 'rtable_ABV')",0.3813968896865845
+11,Rocket City Red,Straight To Ale,American Amber / Red Ale,5.00 %,Red Ale,Nausta Bryggeri,Amber Ale,5.20 %,"('rtable_Beer_Name', 'rtable_Brew_Factory_Name', 'rtable_Style')",0.6114321947097778
+12,Rocket City Red,Straight To Ale,American Amber / Red Ale,5.00 %,Red Ale,Nausta Bryggeri,Spice/Herb/Vegetable,5 %,"('rtable_Beer_Name', 'rtable_Brew_Factory_Name', 'rtable_ABV')",0.6935481429100037
+13,Rocket City Red,Straight To Ale,American Amber / Red Ale,5.00 %,Red Ale,Sawdust City Brewing Company,Amber Ale,5 %,"('rtable_Beer_Name', 'rtable_Style', 'rtable_ABV')",0.6770732998847961
+14,Rocket City Red,Straight To Ale,American Amber / Red Ale,5.00 %,Sawdust City Red Rocket Coffee Spiced Stout,Nausta Bryggeri,Amber Ale,5 %,"('rtable_Brew_Factory_Name', 'rtable_Style', 'rtable_ABV')",0.403497576713562

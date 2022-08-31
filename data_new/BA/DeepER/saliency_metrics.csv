@@ -1,0 +1,5 @@
+Explainer,Faithfulness,Confidence Indication,
+CERTA,0.003,0.02,
+Mojito,0.17,0.03,
+LandMark,0.23,0.05,
+SHAP,0.21,0.02,

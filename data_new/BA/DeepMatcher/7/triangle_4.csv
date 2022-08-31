@@ -1,0 +1,17 @@
+,ltable_Beer_Name,ltable_Brew_Factory_Name,ltable_Style,ltable_ABV,rtable_Beer_Name,rtable_Brew_Factory_Name,rtable_Style,rtable_ABV,alteredAttributes,match_score
+0,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Rogue XS Old Crustacean Barleywine,Rogue,Barley Wine,11.50 %,"{'rtable_Beer_Name', 'rtable_Style', 'rtable_ABV', 'rtable_Brew_Factory_Name'}",0.3144546449184418
+15,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,,0.5935068130493164
+1,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Rogue XS Old Crustacean Barleywine,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,"('rtable_Beer_Name',)",0.4524389207363129
+2,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Rogue,Amber Ale,6.90 %,"('rtable_Brew_Factory_Name',)",0.6638725399971008
+3,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Barley Wine,6.90 %,"('rtable_Style',)",0.652927577495575
+4,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,11.50 %,"('rtable_ABV',)",0.4742580950260162
+5,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Rogue XS Old Crustacean Barleywine,Rogue,Amber Ale,6.90 %,"('rtable_Beer_Name', 'rtable_Brew_Factory_Name')",0.4761657118797302
+6,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Rogue XS Old Crustacean Barleywine,Ca l_Arenys - Cervezas Guineu,Barley Wine,6.90 %,"('rtable_Beer_Name', 'rtable_Style')",0.4684430658817291
+7,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Rogue XS Old Crustacean Barleywine,Ca l_Arenys - Cervezas Guineu,Amber Ale,11.50 %,"('rtable_Beer_Name', 'rtable_ABV')",0.2993326187133789
+8,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Rogue,Barley Wine,6.90 %,"('rtable_Brew_Factory_Name', 'rtable_Style')",0.6789892911911011
+9,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Rogue,Amber Ale,11.50 %,"('rtable_Brew_Factory_Name', 'rtable_ABV')",0.5016407966613771
+10,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Barley Wine,11.50 %,"('rtable_Style', 'rtable_ABV')",0.4912343323230744
+11,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Rogue XS Old Crustacean Barleywine,Rogue,Barley Wine,6.90 %,"('rtable_Beer_Name', 'rtable_Brew_Factory_Name', 'rtable_Style')",0.4923843443393707
+12,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Rogue XS Old Crustacean Barleywine,Rogue,Amber Ale,11.50 %,"('rtable_Beer_Name', 'rtable_Brew_Factory_Name', 'rtable_ABV')",0.3184265196323395
+13,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Rogue XS Old Crustacean Barleywine,Ca l_Arenys - Cervezas Guineu,Barley Wine,11.50 %,"('rtable_Beer_Name', 'rtable_Style', 'rtable_ABV')",0.31295108795166016
+14,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Rogue,Barley Wine,11.50 %,"('rtable_Brew_Factory_Name', 'rtable_Style', 'rtable_ABV')",0.5187949538230896

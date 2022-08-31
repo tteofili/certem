@@ -1,0 +1,17 @@
+,ltable_Beer_Name,ltable_Brew_Factory_Name,ltable_Style,ltable_ABV,rtable_Beer_Name,rtable_Brew_Factory_Name,rtable_Style,rtable_ABV,alteredAttributes,match_score
+0,Big Bang,No-Li Brewhouse,American Barleywine,%,Sick N Twisted Pleasure Victim Amber Ale,Sick N Twisted Brewing Company,Amber Ale,5.50 %,"{'ltable_Beer_Name', 'ltable_Brew_Factory_Name', 'ltable_Style', 'ltable_ABV'}",0.016588930040597916
+15,Twisted Stick Amber Ale,Portneuf Valley Brewing,American Amber / Red Ale,-,Sick N Twisted Pleasure Victim Amber Ale,Sick N Twisted Brewing Company,Amber Ale,5.50 %,,0.6941395998001099
+1,Big Bang,Portneuf Valley Brewing,American Amber / Red Ale,-,Sick N Twisted Pleasure Victim Amber Ale,Sick N Twisted Brewing Company,Amber Ale,5.50 %,"('ltable_Beer_Name',)",0.06426572
+2,Twisted Stick Amber Ale,No-Li Brewhouse,American Amber / Red Ale,-,Sick N Twisted Pleasure Victim Amber Ale,Sick N Twisted Brewing Company,Amber Ale,5.50 %,"('ltable_Brew_Factory_Name',)",0.65381575
+3,Twisted Stick Amber Ale,Portneuf Valley Brewing,American Barleywine,-,Sick N Twisted Pleasure Victim Amber Ale,Sick N Twisted Brewing Company,Amber Ale,5.50 %,"('ltable_Style',)",0.9914097
+4,Twisted Stick Amber Ale,Portneuf Valley Brewing,American Amber / Red Ale,%,Sick N Twisted Pleasure Victim Amber Ale,Sick N Twisted Brewing Company,Amber Ale,5.50 %,"('ltable_ABV',)",0.98301065
+5,Big Bang,No-Li Brewhouse,American Amber / Red Ale,-,Sick N Twisted Pleasure Victim Amber Ale,Sick N Twisted Brewing Company,Amber Ale,5.50 %,"('ltable_Beer_Name', 'ltable_Brew_Factory_Name')",0.14410467
+6,Big Bang,Portneuf Valley Brewing,American Barleywine,-,Sick N Twisted Pleasure Victim Amber Ale,Sick N Twisted Brewing Company,Amber Ale,5.50 %,"('ltable_Beer_Name', 'ltable_Style')",0.01658893
+7,Big Bang,Portneuf Valley Brewing,American Amber / Red Ale,%,Sick N Twisted Pleasure Victim Amber Ale,Sick N Twisted Brewing Company,Amber Ale,5.50 %,"('ltable_Beer_Name', 'ltable_ABV')",0.01658893
+8,Twisted Stick Amber Ale,No-Li Brewhouse,American Barleywine,-,Sick N Twisted Pleasure Victim Amber Ale,Sick N Twisted Brewing Company,Amber Ale,5.50 %,"('ltable_Brew_Factory_Name', 'ltable_Style')",0.9469178
+9,Twisted Stick Amber Ale,No-Li Brewhouse,American Amber / Red Ale,%,Sick N Twisted Pleasure Victim Amber Ale,Sick N Twisted Brewing Company,Amber Ale,5.50 %,"('ltable_Brew_Factory_Name', 'ltable_ABV')",0.02501032
+10,Twisted Stick Amber Ale,Portneuf Valley Brewing,American Barleywine,%,Sick N Twisted Pleasure Victim Amber Ale,Sick N Twisted Brewing Company,Amber Ale,5.50 %,"('ltable_Style', 'ltable_ABV')",0.9863120000000001
+11,Big Bang,No-Li Brewhouse,American Barleywine,-,Sick N Twisted Pleasure Victim Amber Ale,Sick N Twisted Brewing Company,Amber Ale,5.50 %,"('ltable_Beer_Name', 'ltable_Brew_Factory_Name', 'ltable_Style')",0.63300264
+12,Big Bang,No-Li Brewhouse,American Amber / Red Ale,%,Sick N Twisted Pleasure Victim Amber Ale,Sick N Twisted Brewing Company,Amber Ale,5.50 %,"('ltable_Beer_Name', 'ltable_Brew_Factory_Name', 'ltable_ABV')",0.025918202
+13,Big Bang,Portneuf Valley Brewing,American Barleywine,%,Sick N Twisted Pleasure Victim Amber Ale,Sick N Twisted Brewing Company,Amber Ale,5.50 %,"('ltable_Beer_Name', 'ltable_Style', 'ltable_ABV')",0.04399956
+14,Twisted Stick Amber Ale,No-Li Brewhouse,American Barleywine,%,Sick N Twisted Pleasure Victim Amber Ale,Sick N Twisted Brewing Company,Amber Ale,5.50 %,"('ltable_Brew_Factory_Name', 'ltable_Style', 'ltable_ABV')",0.80960524

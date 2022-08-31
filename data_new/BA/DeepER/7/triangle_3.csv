@@ -1,0 +1,17 @@
+,ltable_Beer_Name,ltable_Brew_Factory_Name,ltable_Style,ltable_ABV,rtable_Beer_Name,rtable_Brew_Factory_Name,rtable_Style,rtable_ABV,alteredAttributes,match_score
+0,Murder Barleywine,New England Brewing Co. .,American Barleywine,11.80 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,"{'ltable_Beer_Name', 'ltable_Brew_Factory_Name', 'ltable_Style', 'ltable_ABV'}",0.016588930040597916
+15,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,,0.9985583424568176
+1,Murder Barleywine,Tarraco Beer,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,"('ltable_Beer_Name',)",0.43501940000000006
+2,Jazz Beer Tarraco Amber,New England Brewing Co. .,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,"('ltable_Brew_Factory_Name',)",0.9813803
+3,Jazz Beer Tarraco Amber,Tarraco Beer,American Barleywine,6.90 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,"('ltable_Style',)",0.9999145
+4,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,11.80 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,"('ltable_ABV',)",0.99986947
+5,Murder Barleywine,New England Brewing Co. .,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,"('ltable_Beer_Name', 'ltable_Brew_Factory_Name')",0.8999285
+6,Murder Barleywine,Tarraco Beer,American Barleywine,6.90 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,"('ltable_Beer_Name', 'ltable_Style')",0.9426545000000001
+7,Murder Barleywine,Tarraco Beer,American Amber / Red Ale,11.80 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,"('ltable_Beer_Name', 'ltable_ABV')",0.96456504
+8,Jazz Beer Tarraco Amber,New England Brewing Co. .,American Barleywine,6.90 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,"('ltable_Brew_Factory_Name', 'ltable_Style')",0.9999621
+9,Jazz Beer Tarraco Amber,New England Brewing Co. .,American Amber / Red Ale,11.80 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,"('ltable_Brew_Factory_Name', 'ltable_ABV')",0.9989409
+10,Jazz Beer Tarraco Amber,Tarraco Beer,American Barleywine,11.80 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,"('ltable_Style', 'ltable_ABV')",0.99999833
+11,Murder Barleywine,New England Brewing Co. .,American Barleywine,6.90 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,"('ltable_Beer_Name', 'ltable_Brew_Factory_Name', 'ltable_Style')",0.28479496
+12,Murder Barleywine,New England Brewing Co. .,American Amber / Red Ale,11.80 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,"('ltable_Beer_Name', 'ltable_Brew_Factory_Name', 'ltable_ABV')",0.9120686
+13,Murder Barleywine,Tarraco Beer,American Barleywine,11.80 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,"('ltable_Beer_Name', 'ltable_Style', 'ltable_ABV')",0.39954209999999996
+14,Jazz Beer Tarraco Amber,New England Brewing Co. .,American Barleywine,11.80 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,"('ltable_Brew_Factory_Name', 'ltable_Style', 'ltable_ABV')",0.9462318000000001

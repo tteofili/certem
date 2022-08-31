@@ -1,0 +1,17 @@
+,ltable_Beer_Name,ltable_Brew_Factory_Name,ltable_Style,ltable_ABV,rtable_Beer_Name,rtable_Brew_Factory_Name,rtable_Style,rtable_ABV,alteredAttributes,match_score
+0,Wolf 's Breath Winter Warmer,Trinity Brewhouse,American Barleywine,9.00 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,"{'ltable_Beer_Name', 'ltable_Brew_Factory_Name', 'ltable_Style', 'ltable_ABV'}",0.018236450850963593
+15,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,,0.9985583424568176
+1,Wolf 's Breath Winter Warmer,Tarraco Beer,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,"('ltable_Beer_Name',)",0.9321120999999999
+2,Jazz Beer Tarraco Amber,Trinity Brewhouse,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,"('ltable_Brew_Factory_Name',)",0.99970156
+3,Jazz Beer Tarraco Amber,Tarraco Beer,American Barleywine,6.90 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,"('ltable_Style',)",0.9999145
+4,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,9.00 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,"('ltable_ABV',)",0.9999869
+5,Wolf 's Breath Winter Warmer,Trinity Brewhouse,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,"('ltable_Beer_Name', 'ltable_Brew_Factory_Name')",0.9990181
+6,Wolf 's Breath Winter Warmer,Tarraco Beer,American Barleywine,6.90 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,"('ltable_Beer_Name', 'ltable_Style')",0.999368
+7,Wolf 's Breath Winter Warmer,Tarraco Beer,American Amber / Red Ale,9.00 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,"('ltable_Beer_Name', 'ltable_ABV')",0.99958163
+8,Jazz Beer Tarraco Amber,Trinity Brewhouse,American Barleywine,6.90 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,"('ltable_Brew_Factory_Name', 'ltable_Style')",0.99999547
+9,Jazz Beer Tarraco Amber,Trinity Brewhouse,American Amber / Red Ale,9.00 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,"('ltable_Brew_Factory_Name', 'ltable_ABV')",0.9999962
+10,Jazz Beer Tarraco Amber,Tarraco Beer,American Barleywine,9.00 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,"('ltable_Style', 'ltable_ABV')",0.99999917
+11,Wolf 's Breath Winter Warmer,Trinity Brewhouse,American Barleywine,6.90 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,"('ltable_Beer_Name', 'ltable_Brew_Factory_Name', 'ltable_Style')",0.99514186
+12,Wolf 's Breath Winter Warmer,Trinity Brewhouse,American Amber / Red Ale,9.00 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,"('ltable_Beer_Name', 'ltable_Brew_Factory_Name', 'ltable_ABV')",0.112524465
+13,Wolf 's Breath Winter Warmer,Tarraco Beer,American Barleywine,9.00 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,"('ltable_Beer_Name', 'ltable_Style', 'ltable_ABV')",0.99574393
+14,Jazz Beer Tarraco Amber,Trinity Brewhouse,American Barleywine,9.00 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,"('ltable_Brew_Factory_Name', 'ltable_Style', 'ltable_ABV')",0.99813676

@@ -1,0 +1,17 @@
+,ltable_Beer_Name,ltable_Brew_Factory_Name,ltable_Style,ltable_ABV,rtable_Beer_Name,rtable_Brew_Factory_Name,rtable_Style,rtable_ABV,alteredAttributes,match_score
+0,Clifford 's Big Red Ale,Funky Buddha Brewery,American Amber / Red Ale,9.70 %,Red,Big Rig Brewery,Amber Ale,5.20 %,"{'rtable_Beer_Name', 'rtable_Style', 'rtable_ABV', 'rtable_Brew_Factory_Name'}",0.6674115657806396
+15,Clifford 's Big Red Ale,Funky Buddha Brewery,American Amber / Red Ale,9.70 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,6.50 %,,0.0825207382440567
+1,Clifford 's Big Red Ale,Funky Buddha Brewery,American Amber / Red Ale,9.70 %,Red,Big Island Brewhaus,American Strong Ale,6.50 %,"('rtable_Beer_Name',)",0.7744469642639159
+2,Clifford 's Big Red Ale,Funky Buddha Brewery,American Amber / Red Ale,9.70 %,Big Island Red Giant Ale,Big Rig Brewery,American Strong Ale,6.50 %,"('rtable_Brew_Factory_Name',)",0.08191835135221481
+3,Clifford 's Big Red Ale,Funky Buddha Brewery,American Amber / Red Ale,9.70 %,Big Island Red Giant Ale,Big Island Brewhaus,Amber Ale,6.50 %,"('rtable_Style',)",0.10600534081459044
+4,Clifford 's Big Red Ale,Funky Buddha Brewery,American Amber / Red Ale,9.70 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,5.20 %,"('rtable_ABV',)",0.0717882513999939
+5,Clifford 's Big Red Ale,Funky Buddha Brewery,American Amber / Red Ale,9.70 %,Red,Big Rig Brewery,American Strong Ale,6.50 %,"('rtable_Beer_Name', 'rtable_Brew_Factory_Name')",0.7835940718650818
+6,Clifford 's Big Red Ale,Funky Buddha Brewery,American Amber / Red Ale,9.70 %,Red,Big Island Brewhaus,Amber Ale,6.50 %,"('rtable_Beer_Name', 'rtable_Style')",0.8290767073631287
+7,Clifford 's Big Red Ale,Funky Buddha Brewery,American Amber / Red Ale,9.70 %,Red,Big Island Brewhaus,American Strong Ale,5.20 %,"('rtable_Beer_Name', 'rtable_ABV')",0.7416068315505981
+8,Clifford 's Big Red Ale,Funky Buddha Brewery,American Amber / Red Ale,9.70 %,Big Island Red Giant Ale,Big Rig Brewery,Amber Ale,6.50 %,"('rtable_Brew_Factory_Name', 'rtable_Style')",0.10535450279712676
+9,Clifford 's Big Red Ale,Funky Buddha Brewery,American Amber / Red Ale,9.70 %,Big Island Red Giant Ale,Big Rig Brewery,American Strong Ale,5.20 %,"('rtable_Brew_Factory_Name', 'rtable_ABV')",0.07125872373580933
+10,Clifford 's Big Red Ale,Funky Buddha Brewery,American Amber / Red Ale,9.70 %,Big Island Red Giant Ale,Big Island Brewhaus,Amber Ale,5.20 %,"('rtable_Style', 'rtable_ABV')",0.092501200735569
+11,Clifford 's Big Red Ale,Funky Buddha Brewery,American Amber / Red Ale,9.70 %,Red,Big Rig Brewery,Amber Ale,6.50 %,"('rtable_Beer_Name', 'rtable_Brew_Factory_Name', 'rtable_Style')",0.8366967439651489
+12,Clifford 's Big Red Ale,Funky Buddha Brewery,American Amber / Red Ale,9.70 %,Red,Big Rig Brewery,American Strong Ale,5.20 %,"('rtable_Beer_Name', 'rtable_Brew_Factory_Name', 'rtable_ABV')",0.7516098618507385
+13,Clifford 's Big Red Ale,Funky Buddha Brewery,American Amber / Red Ale,9.70 %,Red,Big Island Brewhaus,Amber Ale,5.20 %,"('rtable_Beer_Name', 'rtable_Style', 'rtable_ABV')",0.8021260499954224
+14,Clifford 's Big Red Ale,Funky Buddha Brewery,American Amber / Red Ale,9.70 %,Big Island Red Giant Ale,Big Rig Brewery,Amber Ale,5.20 %,"('rtable_Brew_Factory_Name', 'rtable_Style', 'rtable_ABV')",0.09191060811281204

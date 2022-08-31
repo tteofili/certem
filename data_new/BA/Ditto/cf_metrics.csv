@@ -1,0 +1,5 @@
+Explainer,Proximity,Sparsity,Diversity
+CERTA,0.37,0.96,0.36
+DiCE,0.22,0.95,0.23
+LIME-C,0.35,0.24,0.12
+SHAP-C,0.2,0.92,0.1

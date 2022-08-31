@@ -1,0 +1,17 @@
+,ltable_Beer_Name,ltable_Brew_Factory_Name,ltable_Style,ltable_ABV,rtable_Beer_Name,rtable_Brew_Factory_Name,rtable_Style,rtable_ABV,alteredAttributes,match_score
+0,Jumbo Love,Figure 8 Brewing,American Barleywine,11.00 %,Figure Eight Bourbon Barrel Aged Jumbo Love,Figure Eight Brewing,Barley Wine,-,"{'ltable_Beer_Name', 'ltable_Brew_Factory_Name', 'ltable_Style', 'ltable_ABV'}",0.9800110459327698
+15,Bulleit Bourbon Barrel Aged G'Knight,Oskar Blues Grill & Brew,American Amber / Red Ale,8.70 %,Figure Eight Bourbon Barrel Aged Jumbo Love,Figure Eight Brewing,Barley Wine,-,,0.016588930040597916
+1,Jumbo Love,Oskar Blues Grill & Brew,American Amber / Red Ale,8.70 %,Figure Eight Bourbon Barrel Aged Jumbo Love,Figure Eight Brewing,Barley Wine,-,"('ltable_Beer_Name',)",0.56663895
+2,Bulleit Bourbon Barrel Aged G'Knight,Figure 8 Brewing,American Amber / Red Ale,8.70 %,Figure Eight Bourbon Barrel Aged Jumbo Love,Figure Eight Brewing,Barley Wine,-,"('ltable_Brew_Factory_Name',)",0.01658893
+3,Bulleit Bourbon Barrel Aged G'Knight,Oskar Blues Grill & Brew,American Barleywine,8.70 %,Figure Eight Bourbon Barrel Aged Jumbo Love,Figure Eight Brewing,Barley Wine,-,"('ltable_Style',)",0.01658893
+4,Bulleit Bourbon Barrel Aged G'Knight,Oskar Blues Grill & Brew,American Amber / Red Ale,11.00 %,Figure Eight Bourbon Barrel Aged Jumbo Love,Figure Eight Brewing,Barley Wine,-,"('ltable_ABV',)",0.01658893
+5,Jumbo Love,Figure 8 Brewing,American Amber / Red Ale,8.70 %,Figure Eight Bourbon Barrel Aged Jumbo Love,Figure Eight Brewing,Barley Wine,-,"('ltable_Beer_Name', 'ltable_Brew_Factory_Name')",0.90265834
+6,Jumbo Love,Oskar Blues Grill & Brew,American Barleywine,8.70 %,Figure Eight Bourbon Barrel Aged Jumbo Love,Figure Eight Brewing,Barley Wine,-,"('ltable_Beer_Name', 'ltable_Style')",0.2973599
+7,Jumbo Love,Oskar Blues Grill & Brew,American Amber / Red Ale,11.00 %,Figure Eight Bourbon Barrel Aged Jumbo Love,Figure Eight Brewing,Barley Wine,-,"('ltable_Beer_Name', 'ltable_ABV')",0.4135271
+8,Bulleit Bourbon Barrel Aged G'Knight,Figure 8 Brewing,American Barleywine,8.70 %,Figure Eight Bourbon Barrel Aged Jumbo Love,Figure Eight Brewing,Barley Wine,-,"('ltable_Brew_Factory_Name', 'ltable_Style')",0.01658893
+9,Bulleit Bourbon Barrel Aged G'Knight,Figure 8 Brewing,American Amber / Red Ale,11.00 %,Figure Eight Bourbon Barrel Aged Jumbo Love,Figure Eight Brewing,Barley Wine,-,"('ltable_Brew_Factory_Name', 'ltable_ABV')",0.01658893
+10,Bulleit Bourbon Barrel Aged G'Knight,Oskar Blues Grill & Brew,American Barleywine,11.00 %,Figure Eight Bourbon Barrel Aged Jumbo Love,Figure Eight Brewing,Barley Wine,-,"('ltable_Style', 'ltable_ABV')",0.01658893
+11,Jumbo Love,Figure 8 Brewing,American Barleywine,8.70 %,Figure Eight Bourbon Barrel Aged Jumbo Love,Figure Eight Brewing,Barley Wine,-,"('ltable_Beer_Name', 'ltable_Brew_Factory_Name', 'ltable_Style')",0.5048359
+12,Jumbo Love,Figure 8 Brewing,American Amber / Red Ale,11.00 %,Figure Eight Bourbon Barrel Aged Jumbo Love,Figure Eight Brewing,Barley Wine,-,"('ltable_Beer_Name', 'ltable_Brew_Factory_Name', 'ltable_ABV')",0.52866286
+13,Jumbo Love,Oskar Blues Grill & Brew,American Barleywine,11.00 %,Figure Eight Bourbon Barrel Aged Jumbo Love,Figure Eight Brewing,Barley Wine,-,"('ltable_Beer_Name', 'ltable_Style', 'ltable_ABV')",0.58998424
+14,Bulleit Bourbon Barrel Aged G'Knight,Figure 8 Brewing,American Barleywine,11.00 %,Figure Eight Bourbon Barrel Aged Jumbo Love,Figure Eight Brewing,Barley Wine,-,"('ltable_Brew_Factory_Name', 'ltable_Style', 'ltable_ABV')",0.01658893
