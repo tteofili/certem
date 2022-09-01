@@ -1,26 +1,26 @@
 digraph G {
 splines="line"
 rankdir=BT
-"{'ltable_description', 'ltable_price', 'ltable_name'}" [shape=box];
+"{'ltable_price', 'ltable_description', 'ltable_name'}" [shape=box];
 "set()" [shape=box];
-"set()" [color=red];
+"set()" [color=];
 "set()" -> "{'ltable_name'}";
 "set()" -> "{'ltable_description'}";
 "set()" -> "{'ltable_price'}";
-"{'ltable_name'}" [color=red];
+"{'ltable_name'}" [color=];
 "{'ltable_name'}" -> "{'ltable_description', 'ltable_name'}";
 "{'ltable_name'}" -> "{'ltable_price', 'ltable_name'}";
-"{'ltable_description'}" [color=green];
+"{'ltable_description'}" [color=];
 "{'ltable_description'}" -> "{'ltable_description', 'ltable_name'}";
-"{'ltable_description'}" -> "{'ltable_description', 'ltable_price'}";
-"{'ltable_price'}" [color=red];
+"{'ltable_description'}" -> "{'ltable_price', 'ltable_description'}";
+"{'ltable_price'}" [color=];
 "{'ltable_price'}" -> "{'ltable_price', 'ltable_name'}";
-"{'ltable_price'}" -> "{'ltable_description', 'ltable_price'}";
-"{'ltable_description', 'ltable_name'}" [color=green];
-"{'ltable_description', 'ltable_name'}" -> "{'ltable_description', 'ltable_price', 'ltable_name'}";
-"{'ltable_price', 'ltable_name'}" [color=red];
-"{'ltable_price', 'ltable_name'}" -> "{'ltable_description', 'ltable_price', 'ltable_name'}";
-"{'ltable_description', 'ltable_price'}" [color=green];
-"{'ltable_description', 'ltable_price'}" -> "{'ltable_description', 'ltable_price', 'ltable_name'}";
-"{'ltable_description', 'ltable_price', 'ltable_name'}" [color=green];
+"{'ltable_price'}" -> "{'ltable_price', 'ltable_description'}";
+"{'ltable_description', 'ltable_name'}" [color=];
+"{'ltable_description', 'ltable_name'}" -> "{'ltable_price', 'ltable_description', 'ltable_name'}";
+"{'ltable_price', 'ltable_name'}" [color=];
+"{'ltable_price', 'ltable_name'}" -> "{'ltable_price', 'ltable_description', 'ltable_name'}";
+"{'ltable_price', 'ltable_description'}" [color=];
+"{'ltable_price', 'ltable_description'}" -> "{'ltable_price', 'ltable_description', 'ltable_name'}";
+"{'ltable_price', 'ltable_description', 'ltable_name'}" [color=];
 }

@@ -1,26 +1,26 @@
 digraph G {
 splines="line"
 rankdir=BT
-"{'rtable_price', 'rtable_name', 'rtable_description'}" [shape=box];
+"{'rtable_description', 'rtable_name', 'rtable_price'}" [shape=box];
 "set()" [shape=box];
-"set()" [color=red];
+"set()" [color=];
 "set()" -> "{'rtable_name'}";
 "set()" -> "{'rtable_description'}";
 "set()" -> "{'rtable_price'}";
-"{'rtable_name'}" [color=red];
-"{'rtable_name'}" -> "{'rtable_name', 'rtable_description'}";
-"{'rtable_name'}" -> "{'rtable_price', 'rtable_name'}";
-"{'rtable_description'}" [color=green];
-"{'rtable_description'}" -> "{'rtable_name', 'rtable_description'}";
-"{'rtable_description'}" -> "{'rtable_price', 'rtable_description'}";
-"{'rtable_price'}" [color=green];
-"{'rtable_price'}" -> "{'rtable_price', 'rtable_name'}";
-"{'rtable_price'}" -> "{'rtable_price', 'rtable_description'}";
-"{'rtable_name', 'rtable_description'}" [color=green];
-"{'rtable_name', 'rtable_description'}" -> "{'rtable_price', 'rtable_name', 'rtable_description'}";
-"{'rtable_price', 'rtable_name'}" [color=red];
-"{'rtable_price', 'rtable_name'}" -> "{'rtable_price', 'rtable_name', 'rtable_description'}";
-"{'rtable_price', 'rtable_description'}" [color=green];
-"{'rtable_price', 'rtable_description'}" -> "{'rtable_price', 'rtable_name', 'rtable_description'}";
-"{'rtable_price', 'rtable_name', 'rtable_description'}" [color=green];
+"{'rtable_name'}" [color=];
+"{'rtable_name'}" -> "{'rtable_description', 'rtable_name'}";
+"{'rtable_name'}" -> "{'rtable_name', 'rtable_price'}";
+"{'rtable_description'}" [color=];
+"{'rtable_description'}" -> "{'rtable_description', 'rtable_name'}";
+"{'rtable_description'}" -> "{'rtable_description', 'rtable_price'}";
+"{'rtable_price'}" [color=];
+"{'rtable_price'}" -> "{'rtable_name', 'rtable_price'}";
+"{'rtable_price'}" -> "{'rtable_description', 'rtable_price'}";
+"{'rtable_description', 'rtable_name'}" [color=];
+"{'rtable_description', 'rtable_name'}" -> "{'rtable_description', 'rtable_name', 'rtable_price'}";
+"{'rtable_name', 'rtable_price'}" [color=];
+"{'rtable_name', 'rtable_price'}" -> "{'rtable_description', 'rtable_name', 'rtable_price'}";
+"{'rtable_description', 'rtable_price'}" [color=];
+"{'rtable_description', 'rtable_price'}" -> "{'rtable_description', 'rtable_name', 'rtable_price'}";
+"{'rtable_description', 'rtable_name', 'rtable_price'}" [color=];
 }
