@@ -1,7 +1,7 @@
 digraph G {
 splines="line"
 rankdir=BT
-"{'ltable_price', 'ltable_name', 'ltable_description'}" [shape=box];
+"{'ltable_name', 'ltable_description', 'ltable_price'}" [shape=box];
 "set()" [shape=box];
 "set()" [color=green];
 "set()" -> "{'ltable_name'}";
@@ -9,18 +9,18 @@ rankdir=BT
 "set()" -> "{'ltable_price'}";
 "{'ltable_name'}" [color=red];
 "{'ltable_name'}" -> "{'ltable_name', 'ltable_description'}";
-"{'ltable_name'}" -> "{'ltable_price', 'ltable_name'}";
+"{'ltable_name'}" -> "{'ltable_name', 'ltable_price'}";
 "{'ltable_description'}" [color=red];
 "{'ltable_description'}" -> "{'ltable_name', 'ltable_description'}";
-"{'ltable_description'}" -> "{'ltable_price', 'ltable_description'}";
+"{'ltable_description'}" -> "{'ltable_description', 'ltable_price'}";
 "{'ltable_price'}" [color=red];
-"{'ltable_price'}" -> "{'ltable_price', 'ltable_name'}";
-"{'ltable_price'}" -> "{'ltable_price', 'ltable_description'}";
+"{'ltable_price'}" -> "{'ltable_name', 'ltable_price'}";
+"{'ltable_price'}" -> "{'ltable_description', 'ltable_price'}";
 "{'ltable_name', 'ltable_description'}" [color=red];
-"{'ltable_name', 'ltable_description'}" -> "{'ltable_price', 'ltable_name', 'ltable_description'}";
-"{'ltable_price', 'ltable_name'}" [color=red];
-"{'ltable_price', 'ltable_name'}" -> "{'ltable_price', 'ltable_name', 'ltable_description'}";
-"{'ltable_price', 'ltable_description'}" [color=red];
-"{'ltable_price', 'ltable_description'}" -> "{'ltable_price', 'ltable_name', 'ltable_description'}";
-"{'ltable_price', 'ltable_name', 'ltable_description'}" [color=red];
+"{'ltable_name', 'ltable_description'}" -> "{'ltable_name', 'ltable_description', 'ltable_price'}";
+"{'ltable_name', 'ltable_price'}" [color=red];
+"{'ltable_name', 'ltable_price'}" -> "{'ltable_name', 'ltable_description', 'ltable_price'}";
+"{'ltable_description', 'ltable_price'}" [color=red];
+"{'ltable_description', 'ltable_price'}" -> "{'ltable_name', 'ltable_description', 'ltable_price'}";
+"{'ltable_name', 'ltable_description', 'ltable_price'}" [color=red];
 }
