@@ -209,12 +209,16 @@ def f(dataset, deeper, dm, ditto, pred_filter, gt_filter):
                                                   readout=True, readout_format='d')
 
                     def tr_slide(slide):
+
                         out_df = widgets.Output()
                         with out_df:
                             display(tr_dfs[slide].style.apply(highlight_prediction, axis=None))
-                        display(widgets.VBox([widgets.Image(
-                            value=graphviz.Source.from_file(lt_files[slide]).pipe(format='png'), format='png'), out_df],
-                                             layout=box_layout))
+                        try:
+                            display(widgets.VBox([widgets.Image(
+                                value=graphviz.Source.from_file(lt_files[slide]).pipe(format='png'), format='png'), out_df],
+                                                 layout=box_layout))
+                        except:
+                            pass
 
                     tr_out = widgets.interactive_output(tr_slide, {'slide': tr_slider})
 
