@@ -1,0 +1,10 @@
+,explanation,type,latency,match,label,row,prediction
+0,"{'ltable_name': 0.0, 'ltable_description': 0.0, 'ltable_price': 0.0, 'rtable_name': 0.0, 'rtable_description': 0.0, 'rtable_price': 0.0}",shap,8.168668651022017,1.0,0.0,445-910,[0.01680452 0.98319548]
+1,"{'ltable_name': 0.0, 'ltable_description': 0.0, 'ltable_price': 0.0, 'rtable_name': 0.0, 'rtable_description': 0.0, 'rtable_price': 0.0}",shap,9.026365872006863,1.0,0.0,719-812,[0.09321207 0.90678793]
+2,"{'ltable_name': 0.0, 'ltable_description': 0.0, 'ltable_price': 0.0, 'rtable_name': 0.0, 'rtable_description': 0.0, 'rtable_price': 0.0}",shap,8.660598237998784,1.0,0.0,550-664,[0.15866762 0.84133238]
+3,"{'ltable_name': 0.0, 'ltable_description': 0.0, 'ltable_price': 0.0, 'rtable_name': 0.0, 'rtable_description': 0.0, 'rtable_price': 0.0}",shap,8.269391630077735,0.0,1.0,942-949,[0.58893922 0.41106078]
+4,"{'ltable_name': 0.0, 'ltable_description': 0.0, 'ltable_price': 0.0, 'rtable_name': 0.0, 'rtable_description': 0.0, 'rtable_price': 0.0}",shap,9.395328509039246,1.0,0.0,643-636,[0.04015464 0.95984536]
+5,"{'ltable_name': 0.0, 'ltable_description': 0.0, 'ltable_price': 0.0, 'rtable_name': 0.0, 'rtable_description': 0.0, 'rtable_price': 0.0}",shap,8.735371535061859,0.0,0.0,495-578,[0.82108924 0.17891076]
+6,"{'ltable_name': 0.0, 'ltable_description': 0.0, 'ltable_price': 0.0, 'rtable_name': 0.0, 'rtable_description': 0.0, 'rtable_price': 0.0}",shap,9.066250709001906,1.0,0.0,994-336,[0.01455009 0.98544991]
+7,"{'ltable_name': 0.0, 'ltable_description': 0.0, 'ltable_price': 0.0, 'rtable_name': 0.0, 'rtable_description': 0.0, 'rtable_price': 0.0}",shap,8.443531716940925,0.0,0.0,987-980,[0.99721931 0.00278069]
+8,"{'ltable_name': 0.0, 'ltable_description': 0.0, 'ltable_price': 0.0, 'rtable_name': 0.0, 'rtable_description': 0.0, 'rtable_price': 0.0}",shap,8.932296584942378,1.0,0.0,332-237,[0.06000632 0.93999368]
