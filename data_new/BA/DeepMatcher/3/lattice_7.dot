@@ -1,0 +1,54 @@
+digraph G {
+splines="line"
+rankdir=BT
+"{'rtable_Beer_Name', 'rtable_Style', 'rtable_ABV', 'rtable_Brew_Factory_Name'}" [shape=box];
+"set()" [shape=box];
+"set()" [color=red];
+"set()" -> "{'rtable_Beer_Name'}";
+"set()" -> "{'rtable_Brew_Factory_Name'}";
+"set()" -> "{'rtable_Style'}";
+"set()" -> "{'rtable_ABV'}";
+"{'rtable_Beer_Name'}" [color=red];
+"{'rtable_Beer_Name'}" -> "{'rtable_Beer_Name', 'rtable_Brew_Factory_Name'}";
+"{'rtable_Beer_Name'}" -> "{'rtable_Beer_Name', 'rtable_Style'}";
+"{'rtable_Beer_Name'}" -> "{'rtable_Beer_Name', 'rtable_ABV'}";
+"{'rtable_Brew_Factory_Name'}" [color=red];
+"{'rtable_Brew_Factory_Name'}" -> "{'rtable_Beer_Name', 'rtable_Brew_Factory_Name'}";
+"{'rtable_Brew_Factory_Name'}" -> "{'rtable_Style', 'rtable_Brew_Factory_Name'}";
+"{'rtable_Brew_Factory_Name'}" -> "{'rtable_ABV', 'rtable_Brew_Factory_Name'}";
+"{'rtable_Style'}" [color=red];
+"{'rtable_Style'}" -> "{'rtable_Beer_Name', 'rtable_Style'}";
+"{'rtable_Style'}" -> "{'rtable_Style', 'rtable_Brew_Factory_Name'}";
+"{'rtable_Style'}" -> "{'rtable_Style', 'rtable_ABV'}";
+"{'rtable_ABV'}" [color=red];
+"{'rtable_ABV'}" -> "{'rtable_Beer_Name', 'rtable_ABV'}";
+"{'rtable_ABV'}" -> "{'rtable_ABV', 'rtable_Brew_Factory_Name'}";
+"{'rtable_ABV'}" -> "{'rtable_Style', 'rtable_ABV'}";
+"{'rtable_Beer_Name', 'rtable_Brew_Factory_Name'}" [color=red];
+"{'rtable_Beer_Name', 'rtable_Brew_Factory_Name'}" -> "{'rtable_Beer_Name', 'rtable_Style', 'rtable_Brew_Factory_Name'}";
+"{'rtable_Beer_Name', 'rtable_Brew_Factory_Name'}" -> "{'rtable_Beer_Name', 'rtable_ABV', 'rtable_Brew_Factory_Name'}";
+"{'rtable_Beer_Name', 'rtable_Style'}" [color=red];
+"{'rtable_Beer_Name', 'rtable_Style'}" -> "{'rtable_Beer_Name', 'rtable_Style', 'rtable_Brew_Factory_Name'}";
+"{'rtable_Beer_Name', 'rtable_Style'}" -> "{'rtable_Beer_Name', 'rtable_Style', 'rtable_ABV'}";
+"{'rtable_Beer_Name', 'rtable_ABV'}" [color=red];
+"{'rtable_Beer_Name', 'rtable_ABV'}" -> "{'rtable_Beer_Name', 'rtable_ABV', 'rtable_Brew_Factory_Name'}";
+"{'rtable_Beer_Name', 'rtable_ABV'}" -> "{'rtable_Beer_Name', 'rtable_Style', 'rtable_ABV'}";
+"{'rtable_Style', 'rtable_Brew_Factory_Name'}" [color=red];
+"{'rtable_Style', 'rtable_Brew_Factory_Name'}" -> "{'rtable_Beer_Name', 'rtable_Style', 'rtable_Brew_Factory_Name'}";
+"{'rtable_Style', 'rtable_Brew_Factory_Name'}" -> "{'rtable_Style', 'rtable_ABV', 'rtable_Brew_Factory_Name'}";
+"{'rtable_ABV', 'rtable_Brew_Factory_Name'}" [color=red];
+"{'rtable_ABV', 'rtable_Brew_Factory_Name'}" -> "{'rtable_Beer_Name', 'rtable_ABV', 'rtable_Brew_Factory_Name'}";
+"{'rtable_ABV', 'rtable_Brew_Factory_Name'}" -> "{'rtable_Style', 'rtable_ABV', 'rtable_Brew_Factory_Name'}";
+"{'rtable_Style', 'rtable_ABV'}" [color=red];
+"{'rtable_Style', 'rtable_ABV'}" -> "{'rtable_Beer_Name', 'rtable_Style', 'rtable_ABV'}";
+"{'rtable_Style', 'rtable_ABV'}" -> "{'rtable_Style', 'rtable_ABV', 'rtable_Brew_Factory_Name'}";
+"{'rtable_Beer_Name', 'rtable_Style', 'rtable_Brew_Factory_Name'}" [color=red];
+"{'rtable_Beer_Name', 'rtable_Style', 'rtable_Brew_Factory_Name'}" -> "{'rtable_Beer_Name', 'rtable_Style', 'rtable_ABV', 'rtable_Brew_Factory_Name'}";
+"{'rtable_Beer_Name', 'rtable_ABV', 'rtable_Brew_Factory_Name'}" [color=red];
+"{'rtable_Beer_Name', 'rtable_ABV', 'rtable_Brew_Factory_Name'}" -> "{'rtable_Beer_Name', 'rtable_Style', 'rtable_ABV', 'rtable_Brew_Factory_Name'}";
+"{'rtable_Beer_Name', 'rtable_Style', 'rtable_ABV'}" [color=red];
+"{'rtable_Beer_Name', 'rtable_Style', 'rtable_ABV'}" -> "{'rtable_Beer_Name', 'rtable_Style', 'rtable_ABV', 'rtable_Brew_Factory_Name'}";
+"{'rtable_Style', 'rtable_ABV', 'rtable_Brew_Factory_Name'}" [color=red];
+"{'rtable_Style', 'rtable_ABV', 'rtable_Brew_Factory_Name'}" -> "{'rtable_Beer_Name', 'rtable_Style', 'rtable_ABV', 'rtable_Brew_Factory_Name'}";
+"{'rtable_Beer_Name', 'rtable_Style', 'rtable_ABV', 'rtable_Brew_Factory_Name'}" [color=green];
+}

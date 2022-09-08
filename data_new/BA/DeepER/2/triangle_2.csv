@@ -1,0 +1,17 @@
+,ltable_Beer_Name,ltable_Brew_Factory_Name,ltable_Style,ltable_ABV,rtable_Beer_Name,rtable_Brew_Factory_Name,rtable_Style,rtable_ABV,alteredAttributes,match_score
+0,Tale Leviathan Barleywine,Fish Brewing Company / Fishbowl Brewpub,American Barleywine,10.00 %,Rude Hippo Honey Basil Amber,18th Street Brewery,Amber Ale,7.40 %,"{'ltable_Beer_Name', 'ltable_Brew_Factory_Name', 'ltable_Style', 'ltable_ABV'}",0.016588930040597916
+15,Honey Basil Amber,Rude Hippo Brewing Company,American Amber / Red Ale,7.40 %,Rude Hippo Honey Basil Amber,18th Street Brewery,Amber Ale,7.40 %,,0.5825655460357666
+1,Tale Leviathan Barleywine,Rude Hippo Brewing Company,American Amber / Red Ale,7.40 %,Rude Hippo Honey Basil Amber,18th Street Brewery,Amber Ale,7.40 %,"('ltable_Beer_Name',)",0.81045365
+2,Honey Basil Amber,Fish Brewing Company / Fishbowl Brewpub,American Amber / Red Ale,7.40 %,Rude Hippo Honey Basil Amber,18th Street Brewery,Amber Ale,7.40 %,"('ltable_Brew_Factory_Name',)",0.10120975
+3,Honey Basil Amber,Rude Hippo Brewing Company,American Barleywine,7.40 %,Rude Hippo Honey Basil Amber,18th Street Brewery,Amber Ale,7.40 %,"('ltable_Style',)",0.0174554
+4,Honey Basil Amber,Rude Hippo Brewing Company,American Amber / Red Ale,10.00 %,Rude Hippo Honey Basil Amber,18th Street Brewery,Amber Ale,7.40 %,"('ltable_ABV',)",0.018389182
+5,Tale Leviathan Barleywine,Fish Brewing Company / Fishbowl Brewpub,American Amber / Red Ale,7.40 %,Rude Hippo Honey Basil Amber,18th Street Brewery,Amber Ale,7.40 %,"('ltable_Beer_Name', 'ltable_Brew_Factory_Name')",0.17616065
+6,Tale Leviathan Barleywine,Rude Hippo Brewing Company,American Barleywine,7.40 %,Rude Hippo Honey Basil Amber,18th Street Brewery,Amber Ale,7.40 %,"('ltable_Beer_Name', 'ltable_Style')",0.9952440999999999
+7,Tale Leviathan Barleywine,Rude Hippo Brewing Company,American Amber / Red Ale,10.00 %,Rude Hippo Honey Basil Amber,18th Street Brewery,Amber Ale,7.40 %,"('ltable_Beer_Name', 'ltable_ABV')",0.9952828000000001
+8,Honey Basil Amber,Fish Brewing Company / Fishbowl Brewpub,American Barleywine,7.40 %,Rude Hippo Honey Basil Amber,18th Street Brewery,Amber Ale,7.40 %,"('ltable_Brew_Factory_Name', 'ltable_Style')",0.81181186
+9,Honey Basil Amber,Fish Brewing Company / Fishbowl Brewpub,American Amber / Red Ale,10.00 %,Rude Hippo Honey Basil Amber,18th Street Brewery,Amber Ale,7.40 %,"('ltable_Brew_Factory_Name', 'ltable_ABV')",0.8141056999999999
+10,Honey Basil Amber,Rude Hippo Brewing Company,American Barleywine,10.00 %,Rude Hippo Honey Basil Amber,18th Street Brewery,Amber Ale,7.40 %,"('ltable_Style', 'ltable_ABV')",0.14322568
+11,Tale Leviathan Barleywine,Fish Brewing Company / Fishbowl Brewpub,American Barleywine,7.40 %,Rude Hippo Honey Basil Amber,18th Street Brewery,Amber Ale,7.40 %,"('ltable_Beer_Name', 'ltable_Brew_Factory_Name', 'ltable_Style')",0.916696
+12,Tale Leviathan Barleywine,Fish Brewing Company / Fishbowl Brewpub,American Amber / Red Ale,10.00 %,Rude Hippo Honey Basil Amber,18th Street Brewery,Amber Ale,7.40 %,"('ltable_Beer_Name', 'ltable_Brew_Factory_Name', 'ltable_ABV')",0.81138134
+13,Tale Leviathan Barleywine,Rude Hippo Brewing Company,American Barleywine,10.00 %,Rude Hippo Honey Basil Amber,18th Street Brewery,Amber Ale,7.40 %,"('ltable_Beer_Name', 'ltable_Style', 'ltable_ABV')",0.9964405000000001
+14,Honey Basil Amber,Fish Brewing Company / Fishbowl Brewpub,American Barleywine,10.00 %,Rude Hippo Honey Basil Amber,18th Street Brewery,Amber Ale,7.40 %,"('ltable_Brew_Factory_Name', 'ltable_Style', 'ltable_ABV')",0.8778800999999999

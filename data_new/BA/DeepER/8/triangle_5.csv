@@ -1,0 +1,17 @@
+,ltable_Beer_Name,ltable_Brew_Factory_Name,ltable_Style,ltable_ABV,rtable_Beer_Name,rtable_Brew_Factory_Name,rtable_Style,rtable_ABV,alteredAttributes,match_score
+0,Twisted Stick Amber Ale,Portneuf Valley Brewing,American Amber / Red Ale,-,_ s Antla Festbier,Antla,Oktoberfest/M Ã $ rzen,-,"{'rtable_ABV', 'rtable_Brew_Factory_Name', 'rtable_Style', 'rtable_Beer_Name'}",0.016588930040597916
+15,Twisted Stick Amber Ale,Portneuf Valley Brewing,American Amber / Red Ale,-,Sick N Twisted Pleasure Victim Amber Ale,Sick N Twisted Brewing Company,Amber Ale,5.50 %,,0.6941395998001099
+1,Twisted Stick Amber Ale,Portneuf Valley Brewing,American Amber / Red Ale,-,_ s Antla Festbier,Sick N Twisted Brewing Company,Amber Ale,5.50 %,"('rtable_Beer_Name',)",0.08437251
+2,Twisted Stick Amber Ale,Portneuf Valley Brewing,American Amber / Red Ale,-,Sick N Twisted Pleasure Victim Amber Ale,Antla,Amber Ale,5.50 %,"('rtable_Brew_Factory_Name',)",0.9854753
+3,Twisted Stick Amber Ale,Portneuf Valley Brewing,American Amber / Red Ale,-,Sick N Twisted Pleasure Victim Amber Ale,Sick N Twisted Brewing Company,Oktoberfest/M Ã $ rzen,5.50 %,"('rtable_Style',)",0.9958111999999999
+4,Twisted Stick Amber Ale,Portneuf Valley Brewing,American Amber / Red Ale,-,Sick N Twisted Pleasure Victim Amber Ale,Sick N Twisted Brewing Company,Amber Ale,-,"('rtable_ABV',)",0.9918161
+5,Twisted Stick Amber Ale,Portneuf Valley Brewing,American Amber / Red Ale,-,_ s Antla Festbier,Antla,Amber Ale,5.50 %,"('rtable_Beer_Name', 'rtable_Brew_Factory_Name')",0.22260542
+6,Twisted Stick Amber Ale,Portneuf Valley Brewing,American Amber / Red Ale,-,_ s Antla Festbier,Sick N Twisted Brewing Company,Oktoberfest/M Ã $ rzen,5.50 %,"('rtable_Beer_Name', 'rtable_Style')",0.01658893
+7,Twisted Stick Amber Ale,Portneuf Valley Brewing,American Amber / Red Ale,-,_ s Antla Festbier,Sick N Twisted Brewing Company,Amber Ale,-,"('rtable_Beer_Name', 'rtable_ABV')",0.01658893
+8,Twisted Stick Amber Ale,Portneuf Valley Brewing,American Amber / Red Ale,-,Sick N Twisted Pleasure Victim Amber Ale,Antla,Oktoberfest/M Ã $ rzen,5.50 %,"('rtable_Brew_Factory_Name', 'rtable_Style')",0.9796243
+9,Twisted Stick Amber Ale,Portneuf Valley Brewing,American Amber / Red Ale,-,Sick N Twisted Pleasure Victim Amber Ale,Antla,Amber Ale,-,"('rtable_Brew_Factory_Name', 'rtable_ABV')",0.9837428
+10,Twisted Stick Amber Ale,Portneuf Valley Brewing,American Amber / Red Ale,-,Sick N Twisted Pleasure Victim Amber Ale,Sick N Twisted Brewing Company,Oktoberfest/M Ã $ rzen,-,"('rtable_Style', 'rtable_ABV')",0.92531174
+11,Twisted Stick Amber Ale,Portneuf Valley Brewing,American Amber / Red Ale,-,_ s Antla Festbier,Antla,Oktoberfest/M Ã $ rzen,5.50 %,"('rtable_Beer_Name', 'rtable_Brew_Factory_Name', 'rtable_Style')",0.2191092
+12,Twisted Stick Amber Ale,Portneuf Valley Brewing,American Amber / Red Ale,-,_ s Antla Festbier,Antla,Amber Ale,-,"('rtable_Beer_Name', 'rtable_Brew_Factory_Name', 'rtable_ABV')",0.2484506
+13,Twisted Stick Amber Ale,Portneuf Valley Brewing,American Amber / Red Ale,-,_ s Antla Festbier,Sick N Twisted Brewing Company,Oktoberfest/M Ã $ rzen,-,"('rtable_Beer_Name', 'rtable_Style', 'rtable_ABV')",0.048938047
+14,Twisted Stick Amber Ale,Portneuf Valley Brewing,American Amber / Red Ale,-,Sick N Twisted Pleasure Victim Amber Ale,Antla,Oktoberfest/M Ã $ rzen,-,"('rtable_Brew_Factory_Name', 'rtable_Style', 'rtable_ABV')",0.9790755999999999

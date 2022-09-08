@@ -1,0 +1,17 @@
+,ltable_Beer_Name,ltable_Brew_Factory_Name,ltable_Style,ltable_ABV,rtable_Beer_Name,rtable_Brew_Factory_Name,rtable_Style,rtable_ABV,alteredAttributes,match_score
+0,Red Sea Of Cacao,Big Island Brewhaus,American Amber / Red Ale,9.00 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,6.50 %,"{'ltable_Beer_Name', 'ltable_Brew_Factory_Name', 'ltable_Style', 'ltable_ABV'}",0.9800110459327698
+15,Clifford 's Big Red Ale,Funky Buddha Brewery,American Amber / Red Ale,9.70 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,6.50 %,,0.016588930040597916
+1,Red Sea Of Cacao,Funky Buddha Brewery,American Amber / Red Ale,9.70 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,6.50 %,"('ltable_Beer_Name',)",0.90469325
+2,Clifford 's Big Red Ale,Big Island Brewhaus,American Amber / Red Ale,9.70 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,6.50 %,"('ltable_Brew_Factory_Name',)",0.036742042999999995
+3,Clifford 's Big Red Ale,Funky Buddha Brewery,American Amber / Red Ale,9.70 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,6.50 %,"('ltable_Style',)",0.01658893
+4,Clifford 's Big Red Ale,Funky Buddha Brewery,American Amber / Red Ale,9.00 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,6.50 %,"('ltable_ABV',)",0.01658893
+5,Red Sea Of Cacao,Big Island Brewhaus,American Amber / Red Ale,9.70 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,6.50 %,"('ltable_Beer_Name', 'ltable_Brew_Factory_Name')",0.9717919
+6,Red Sea Of Cacao,Funky Buddha Brewery,American Amber / Red Ale,9.70 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,6.50 %,"('ltable_Beer_Name', 'ltable_Style')",0.90469325
+7,Red Sea Of Cacao,Funky Buddha Brewery,American Amber / Red Ale,9.00 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,6.50 %,"('ltable_Beer_Name', 'ltable_ABV')",0.90470874
+8,Clifford 's Big Red Ale,Big Island Brewhaus,American Amber / Red Ale,9.70 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,6.50 %,"('ltable_Brew_Factory_Name', 'ltable_Style')",0.036742042999999995
+9,Clifford 's Big Red Ale,Big Island Brewhaus,American Amber / Red Ale,9.00 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,6.50 %,"('ltable_Brew_Factory_Name', 'ltable_ABV')",0.023742952999999997
+10,Clifford 's Big Red Ale,Funky Buddha Brewery,American Amber / Red Ale,9.00 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,6.50 %,"('ltable_Style', 'ltable_ABV')",0.01658893
+11,Red Sea Of Cacao,Big Island Brewhaus,American Amber / Red Ale,9.70 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,6.50 %,"('ltable_Beer_Name', 'ltable_Brew_Factory_Name', 'ltable_Style')",0.9717919
+12,Red Sea Of Cacao,Big Island Brewhaus,American Amber / Red Ale,9.00 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,6.50 %,"('ltable_Beer_Name', 'ltable_Brew_Factory_Name', 'ltable_ABV')",0.9708582
+13,Red Sea Of Cacao,Funky Buddha Brewery,American Amber / Red Ale,9.00 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,6.50 %,"('ltable_Beer_Name', 'ltable_Style', 'ltable_ABV')",0.90470874
+14,Clifford 's Big Red Ale,Big Island Brewhaus,American Amber / Red Ale,9.00 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,6.50 %,"('ltable_Brew_Factory_Name', 'ltable_Style', 'ltable_ABV')",0.023742952999999997

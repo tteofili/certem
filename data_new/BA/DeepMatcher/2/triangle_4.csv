@@ -1,0 +1,17 @@
+,ltable_Beer_Name,ltable_Brew_Factory_Name,ltable_Style,ltable_ABV,rtable_Beer_Name,rtable_Brew_Factory_Name,rtable_Style,rtable_ABV,alteredAttributes,match_score
+0,Preservation Series : Oaked Old Richland,The Bruery,American Barleywine,11.10,Rude Hippo Honey Basil Amber,18th Street Brewery,Amber Ale,7.40 %,"{'ltable_Beer_Name', 'ltable_Style', 'ltable_ABV', 'ltable_Brew_Factory_Name'}",0.225118026137352
+15,Honey Basil Amber,Rude Hippo Brewing Company,American Amber / Red Ale,7.40 %,Rude Hippo Honey Basil Amber,18th Street Brewery,Amber Ale,7.40 %,,0.7921569347381592
+1,Preservation Series : Oaked Old Richland,Rude Hippo Brewing Company,American Amber / Red Ale,7.40 %,Rude Hippo Honey Basil Amber,18th Street Brewery,Amber Ale,7.40 %,"('ltable_Beer_Name',)",0.426874041557312
+2,Honey Basil Amber,The Bruery,American Amber / Red Ale,7.40 %,Rude Hippo Honey Basil Amber,18th Street Brewery,Amber Ale,7.40 %,"('ltable_Brew_Factory_Name',)",0.8732281923294067
+3,Honey Basil Amber,Rude Hippo Brewing Company,American Barleywine,7.40 %,Rude Hippo Honey Basil Amber,18th Street Brewery,Amber Ale,7.40 %,"('ltable_Style',)",0.8567283749580383
+4,Honey Basil Amber,Rude Hippo Brewing Company,American Amber / Red Ale,11.10,Rude Hippo Honey Basil Amber,18th Street Brewery,Amber Ale,7.40 %,"('ltable_ABV',)",0.7160829305648804
+5,Preservation Series : Oaked Old Richland,The Bruery,American Amber / Red Ale,7.40 %,Rude Hippo Honey Basil Amber,18th Street Brewery,Amber Ale,7.40 %,"('ltable_Beer_Name', 'ltable_Brew_Factory_Name')",0.44205382466316223
+6,Preservation Series : Oaked Old Richland,Rude Hippo Brewing Company,American Barleywine,7.40 %,Rude Hippo Honey Basil Amber,18th Street Brewery,Amber Ale,7.40 %,"('ltable_Beer_Name', 'ltable_Style')",0.4067759513854981
+7,Preservation Series : Oaked Old Richland,Rude Hippo Brewing Company,American Amber / Red Ale,11.10,Rude Hippo Honey Basil Amber,18th Street Brewery,Amber Ale,7.40 %,"('ltable_Beer_Name', 'ltable_ABV')",0.2396254539489746
+8,Honey Basil Amber,The Bruery,American Barleywine,7.40 %,Rude Hippo Honey Basil Amber,18th Street Brewery,Amber Ale,7.40 %,"('ltable_Brew_Factory_Name', 'ltable_Style')",0.8629326224327087
+9,Honey Basil Amber,The Bruery,American Amber / Red Ale,11.10,Rude Hippo Honey Basil Amber,18th Street Brewery,Amber Ale,7.40 %,"('ltable_Brew_Factory_Name', 'ltable_ABV')",0.7828463912010193
+10,Honey Basil Amber,Rude Hippo Brewing Company,American Barleywine,11.10,Rude Hippo Honey Basil Amber,18th Street Brewery,Amber Ale,7.40 %,"('ltable_Style', 'ltable_ABV')",0.7578404545783997
+11,Preservation Series : Oaked Old Richland,The Bruery,American Barleywine,7.40 %,Rude Hippo Honey Basil Amber,18th Street Brewery,Amber Ale,7.40 %,"('ltable_Beer_Name', 'ltable_Brew_Factory_Name', 'ltable_Style')",0.4218360781669617
+12,Preservation Series : Oaked Old Richland,The Bruery,American Amber / Red Ale,11.10,Rude Hippo Honey Basil Amber,18th Street Brewery,Amber Ale,7.40 %,"('ltable_Beer_Name', 'ltable_Brew_Factory_Name', 'ltable_ABV')",0.2512977123260498
+13,Preservation Series : Oaked Old Richland,Rude Hippo Brewing Company,American Barleywine,11.10,Rude Hippo Honey Basil Amber,18th Street Brewery,Amber Ale,7.40 %,"('ltable_Beer_Name', 'ltable_Style', 'ltable_ABV')",0.22516007721424106
+14,Honey Basil Amber,The Bruery,American Barleywine,11.10,Rude Hippo Honey Basil Amber,18th Street Brewery,Amber Ale,7.40 %,"('ltable_Brew_Factory_Name', 'ltable_Style', 'ltable_ABV')",0.7089568376541138

@@ -1,0 +1,17 @@
+,ltable_Beer_Name,ltable_Brew_Factory_Name,ltable_Style,ltable_ABV,rtable_Beer_Name,rtable_Brew_Factory_Name,rtable_Style,rtable_ABV,alteredAttributes,match_score
+0,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Hair of the Dog Bourbon Doggie,Hair of the Dog Brewing Company,Barley Wine,9.50 %,"{'rtable_Beer_Name', 'rtable_Style', 'rtable_ABV', 'rtable_Brew_Factory_Name'}",0.30727022886276245
+15,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,,0.5935068130493164
+1,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Hair of the Dog Bourbon Doggie,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,"('rtable_Beer_Name',)",0.4791346788406372
+2,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Hair of the Dog Brewing Company,Amber Ale,6.90 %,"('rtable_Brew_Factory_Name',)",0.6399505734443665
+3,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Barley Wine,6.90 %,"('rtable_Style',)",0.6899070739746094
+4,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,9.50 %,"('rtable_ABV',)",0.5227031111717224
+5,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Hair of the Dog Bourbon Doggie,Hair of the Dog Brewing Company,Amber Ale,6.90 %,"('rtable_Beer_Name', 'rtable_Brew_Factory_Name')",0.4420314133167267
+6,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Hair of the Dog Bourbon Doggie,Ca l_Arenys - Cervezas Guineu,Barley Wine,6.90 %,"('rtable_Beer_Name', 'rtable_Style')",0.4952708780765533
+7,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Hair of the Dog Bourbon Doggie,Ca l_Arenys - Cervezas Guineu,Amber Ale,9.50 %,"('rtable_Beer_Name', 'rtable_ABV')",0.3258801102638245
+8,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Hair of the Dog Brewing Company,Barley Wine,6.90 %,"('rtable_Brew_Factory_Name', 'rtable_Style')",0.6555259227752686
+9,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Hair of the Dog Brewing Company,Amber Ale,9.50 %,"('rtable_Brew_Factory_Name', 'rtable_ABV')",0.4834248125553131
+10,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Barley Wine,9.50 %,"('rtable_Style', 'rtable_ABV')",0.5399641990661621
+11,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Hair of the Dog Bourbon Doggie,Hair of the Dog Brewing Company,Barley Wine,6.90 %,"('rtable_Beer_Name', 'rtable_Brew_Factory_Name', 'rtable_Style')",0.4579469263553619
+12,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Hair of the Dog Bourbon Doggie,Hair of the Dog Brewing Company,Amber Ale,9.50 %,"('rtable_Beer_Name', 'rtable_Brew_Factory_Name', 'rtable_ABV')",0.2936798334121704
+13,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Hair of the Dog Bourbon Doggie,Ca l_Arenys - Cervezas Guineu,Barley Wine,9.50 %,"('rtable_Beer_Name', 'rtable_Style', 'rtable_ABV')",0.3402915298938751
+14,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Hair of the Dog Brewing Company,Barley Wine,9.50 %,"('rtable_Brew_Factory_Name', 'rtable_Style', 'rtable_ABV')",0.5006724596023561

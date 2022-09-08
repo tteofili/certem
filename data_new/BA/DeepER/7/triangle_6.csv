@@ -1,0 +1,17 @@
+,ltable_Beer_Name,ltable_Brew_Factory_Name,ltable_Style,ltable_ABV,rtable_Beer_Name,rtable_Brew_Factory_Name,rtable_Style,rtable_ABV,alteredAttributes,match_score
+0,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Climax Barleywine 10th,Climax Brewing Company,Barley Wine,10 %,"{'rtable_ABV', 'rtable_Brew_Factory_Name', 'rtable_Style', 'rtable_Beer_Name'}",0.016588930040597916
+15,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,,0.9985583424568176
+1,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Climax Barleywine 10th,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,"('rtable_Beer_Name',)",0.7475208999999999
+2,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Climax Brewing Company,Amber Ale,6.90 %,"('rtable_Brew_Factory_Name',)",0.9999944
+3,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Barley Wine,6.90 %,"('rtable_Style',)",0.99998224
+4,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,10 %,"('rtable_ABV',)",0.9999986999999999
+5,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Climax Barleywine 10th,Climax Brewing Company,Amber Ale,6.90 %,"('rtable_Beer_Name', 'rtable_Brew_Factory_Name')",0.15197049
+6,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Climax Barleywine 10th,Ca l_Arenys - Cervezas Guineu,Barley Wine,6.90 %,"('rtable_Beer_Name', 'rtable_Style')",0.43487498
+7,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Climax Barleywine 10th,Ca l_Arenys - Cervezas Guineu,Amber Ale,10 %,"('rtable_Beer_Name', 'rtable_ABV')",0.94175106
+8,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Climax Brewing Company,Barley Wine,6.90 %,"('rtable_Brew_Factory_Name', 'rtable_Style')",0.9999788000000001
+9,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Climax Brewing Company,Amber Ale,10 %,"('rtable_Brew_Factory_Name', 'rtable_ABV')",0.9996718000000001
+10,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Barley Wine,10 %,"('rtable_Style', 'rtable_ABV')",0.9999937
+11,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Climax Barleywine 10th,Climax Brewing Company,Barley Wine,6.90 %,"('rtable_Beer_Name', 'rtable_Brew_Factory_Name', 'rtable_Style')",0.01786277
+12,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Climax Barleywine 10th,Climax Brewing Company,Amber Ale,10 %,"('rtable_Beer_Name', 'rtable_Brew_Factory_Name', 'rtable_ABV')",0.8785023999999999
+13,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Climax Barleywine 10th,Ca l_Arenys - Cervezas Guineu,Barley Wine,10 %,"('rtable_Beer_Name', 'rtable_Style', 'rtable_ABV')",0.046991005999999995
+14,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Climax Brewing Company,Barley Wine,10 %,"('rtable_Brew_Factory_Name', 'rtable_Style', 'rtable_ABV')",0.99952126

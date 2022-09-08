@@ -1,0 +1,17 @@
+,ltable_Beer_Name,ltable_Brew_Factory_Name,ltable_Style,ltable_ABV,rtable_Beer_Name,rtable_Brew_Factory_Name,rtable_Style,rtable_ABV,alteredAttributes,match_score
+0,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Bluegrass Bearded Pats Barleywine Style,Bluegrass Brewing Company,Barley Wine,11 %,"{'rtable_ABV', 'rtable_Brew_Factory_Name', 'rtable_Style', 'rtable_Beer_Name'}",0.016588930040597916
+15,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,,0.9985583424568176
+1,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Bluegrass Bearded Pats Barleywine Style,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,"('rtable_Beer_Name',)",0.9763558000000001
+2,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Bluegrass Brewing Company,Amber Ale,6.90 %,"('rtable_Brew_Factory_Name',)",0.99999857
+3,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Barley Wine,6.90 %,"('rtable_Style',)",0.99998224
+4,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,11 %,"('rtable_ABV',)",0.9999964
+5,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Bluegrass Bearded Pats Barleywine Style,Bluegrass Brewing Company,Amber Ale,6.90 %,"('rtable_Beer_Name', 'rtable_Brew_Factory_Name')",0.20405582
+6,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Bluegrass Bearded Pats Barleywine Style,Ca l_Arenys - Cervezas Guineu,Barley Wine,6.90 %,"('rtable_Beer_Name', 'rtable_Style')",0.1454925
+7,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Bluegrass Bearded Pats Barleywine Style,Ca l_Arenys - Cervezas Guineu,Amber Ale,11 %,"('rtable_Beer_Name', 'rtable_ABV')",0.29909822
+8,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Bluegrass Brewing Company,Barley Wine,6.90 %,"('rtable_Brew_Factory_Name', 'rtable_Style')",0.99999404
+9,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Bluegrass Brewing Company,Amber Ale,11 %,"('rtable_Brew_Factory_Name', 'rtable_ABV')",0.99990547
+10,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Barley Wine,11 %,"('rtable_Style', 'rtable_ABV')",0.9999933000000001
+11,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Bluegrass Bearded Pats Barleywine Style,Bluegrass Brewing Company,Barley Wine,6.90 %,"('rtable_Beer_Name', 'rtable_Brew_Factory_Name', 'rtable_Style')",0.07284229
+12,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Bluegrass Bearded Pats Barleywine Style,Bluegrass Brewing Company,Amber Ale,11 %,"('rtable_Beer_Name', 'rtable_Brew_Factory_Name', 'rtable_ABV')",0.8362036
+13,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Bluegrass Bearded Pats Barleywine Style,Ca l_Arenys - Cervezas Guineu,Barley Wine,11 %,"('rtable_Beer_Name', 'rtable_Style', 'rtable_ABV')",0.06410465
+14,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Bluegrass Brewing Company,Barley Wine,11 %,"('rtable_Brew_Factory_Name', 'rtable_Style', 'rtable_ABV')",0.9998184999999999

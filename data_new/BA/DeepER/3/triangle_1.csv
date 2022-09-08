@@ -1,0 +1,17 @@
+,ltable_Beer_Name,ltable_Brew_Factory_Name,ltable_Style,ltable_ABV,rtable_Beer_Name,rtable_Brew_Factory_Name,rtable_Style,rtable_ABV,alteredAttributes,match_score
+0,Giant Ale,Big Island Brewhaus & Tako Taco Taqueria,American Amber / Red Ale,6.50 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,6.50 %,"{'ltable_Beer_Name', 'ltable_Brew_Factory_Name', 'ltable_Style', 'ltable_ABV'}",0.9800110459327698
+15,Clifford 's Big Red Ale,Funky Buddha Brewery,American Amber / Red Ale,9.70 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,6.50 %,,0.016588930040597916
+1,Giant Ale,Funky Buddha Brewery,American Amber / Red Ale,9.70 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,6.50 %,"('ltable_Beer_Name',)",0.01658893
+2,Clifford 's Big Red Ale,Big Island Brewhaus & Tako Taco Taqueria,American Amber / Red Ale,9.70 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,6.50 %,"('ltable_Brew_Factory_Name',)",0.01658893
+3,Clifford 's Big Red Ale,Funky Buddha Brewery,American Amber / Red Ale,9.70 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,6.50 %,"('ltable_Style',)",0.01658893
+4,Clifford 's Big Red Ale,Funky Buddha Brewery,American Amber / Red Ale,6.50 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,6.50 %,"('ltable_ABV',)",0.01658893
+5,Giant Ale,Big Island Brewhaus & Tako Taco Taqueria,American Amber / Red Ale,9.70 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,6.50 %,"('ltable_Beer_Name', 'ltable_Brew_Factory_Name')",0.80891085
+6,Giant Ale,Funky Buddha Brewery,American Amber / Red Ale,9.70 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,6.50 %,"('ltable_Beer_Name', 'ltable_Style')",0.01658893
+7,Giant Ale,Funky Buddha Brewery,American Amber / Red Ale,6.50 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,6.50 %,"('ltable_Beer_Name', 'ltable_ABV')",0.01658893
+8,Clifford 's Big Red Ale,Big Island Brewhaus & Tako Taco Taqueria,American Amber / Red Ale,9.70 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,6.50 %,"('ltable_Brew_Factory_Name', 'ltable_Style')",0.01658893
+9,Clifford 's Big Red Ale,Big Island Brewhaus & Tako Taco Taqueria,American Amber / Red Ale,6.50 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,6.50 %,"('ltable_Brew_Factory_Name', 'ltable_ABV')",0.01658893
+10,Clifford 's Big Red Ale,Funky Buddha Brewery,American Amber / Red Ale,6.50 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,6.50 %,"('ltable_Style', 'ltable_ABV')",0.01658893
+11,Giant Ale,Big Island Brewhaus & Tako Taco Taqueria,American Amber / Red Ale,9.70 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,6.50 %,"('ltable_Beer_Name', 'ltable_Brew_Factory_Name', 'ltable_Style')",0.80891085
+12,Giant Ale,Big Island Brewhaus & Tako Taco Taqueria,American Amber / Red Ale,6.50 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,6.50 %,"('ltable_Beer_Name', 'ltable_Brew_Factory_Name', 'ltable_ABV')",0.8277317
+13,Giant Ale,Funky Buddha Brewery,American Amber / Red Ale,6.50 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,6.50 %,"('ltable_Beer_Name', 'ltable_Style', 'ltable_ABV')",0.01658893
+14,Clifford 's Big Red Ale,Big Island Brewhaus & Tako Taco Taqueria,American Amber / Red Ale,6.50 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,6.50 %,"('ltable_Brew_Factory_Name', 'ltable_Style', 'ltable_ABV')",0.01658893

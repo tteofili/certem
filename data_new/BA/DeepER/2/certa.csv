@@ -1,0 +1,3 @@
+,ltable_Beer_Name,ltable_Brew_Factory_Name,ltable_Style,ltable_ABV,rtable_Beer_Name,rtable_Brew_Factory_Name,rtable_Style,rtable_ABV,nomatch_score,match_score,alteredAttributes,droppedValues,copiedValues,triangle,attr_count
+11,Honey Basil Amber,Rude Hippo Brewing Company,American Amber / Red Ale,7.40 %,Fort George Hogfather,18th Street Brewery,Amber Ale,7.40 %,0.98341113,0.01658893,"('rtable_Beer_Name',)",['Rude Hippo Honey Basil Amber'],['Fort George Hogfather'],1@2224 0@3917 1@44291,2
+16,Honey Basil Amber,Rude Hippo Brewing Company,American Amber / Red Ale,7.40 %,612 Brew Wild,18th Street Brewery,Amber Ale,7.40 %,0.95566386,0.044336155,"('rtable_Beer_Name',)",['Rude Hippo Honey Basil Amber'],['612 Brew Wild'],1@2224 0@3917 1@11719,2

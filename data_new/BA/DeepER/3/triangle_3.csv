@@ -1,0 +1,17 @@
+,ltable_Beer_Name,ltable_Brew_Factory_Name,ltable_Style,ltable_ABV,rtable_Beer_Name,rtable_Brew_Factory_Name,rtable_Style,rtable_ABV,alteredAttributes,match_score
+0,Island Ale,Jacob Leinenkugel,American Amber / Red Ale,8.50 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,6.50 %,"{'ltable_Beer_Name', 'ltable_Brew_Factory_Name', 'ltable_Style', 'ltable_ABV'}",0.9800110459327698
+15,Clifford 's Big Red Ale,Funky Buddha Brewery,American Amber / Red Ale,9.70 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,6.50 %,,0.016588930040597916
+1,Island Ale,Funky Buddha Brewery,American Amber / Red Ale,9.70 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,6.50 %,"('ltable_Beer_Name',)",0.9809604999999999
+2,Clifford 's Big Red Ale,Jacob Leinenkugel,American Amber / Red Ale,9.70 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,6.50 %,"('ltable_Brew_Factory_Name',)",0.01658893
+3,Clifford 's Big Red Ale,Funky Buddha Brewery,American Amber / Red Ale,9.70 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,6.50 %,"('ltable_Style',)",0.01658893
+4,Clifford 's Big Red Ale,Funky Buddha Brewery,American Amber / Red Ale,8.50 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,6.50 %,"('ltable_ABV',)",0.01658893
+5,Island Ale,Jacob Leinenkugel,American Amber / Red Ale,9.70 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,6.50 %,"('ltable_Beer_Name', 'ltable_Brew_Factory_Name')",0.83518517
+6,Island Ale,Funky Buddha Brewery,American Amber / Red Ale,9.70 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,6.50 %,"('ltable_Beer_Name', 'ltable_Style')",0.9809604999999999
+7,Island Ale,Funky Buddha Brewery,American Amber / Red Ale,8.50 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,6.50 %,"('ltable_Beer_Name', 'ltable_ABV')",0.9812284
+8,Clifford 's Big Red Ale,Jacob Leinenkugel,American Amber / Red Ale,9.70 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,6.50 %,"('ltable_Brew_Factory_Name', 'ltable_Style')",0.01658893
+9,Clifford 's Big Red Ale,Jacob Leinenkugel,American Amber / Red Ale,8.50 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,6.50 %,"('ltable_Brew_Factory_Name', 'ltable_ABV')",0.01658893
+10,Clifford 's Big Red Ale,Funky Buddha Brewery,American Amber / Red Ale,8.50 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,6.50 %,"('ltable_Style', 'ltable_ABV')",0.01658893
+11,Island Ale,Jacob Leinenkugel,American Amber / Red Ale,9.70 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,6.50 %,"('ltable_Beer_Name', 'ltable_Brew_Factory_Name', 'ltable_Style')",0.83518517
+12,Island Ale,Jacob Leinenkugel,American Amber / Red Ale,8.50 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,6.50 %,"('ltable_Beer_Name', 'ltable_Brew_Factory_Name', 'ltable_ABV')",0.83422816
+13,Island Ale,Funky Buddha Brewery,American Amber / Red Ale,8.50 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,6.50 %,"('ltable_Beer_Name', 'ltable_Style', 'ltable_ABV')",0.9812284
+14,Clifford 's Big Red Ale,Jacob Leinenkugel,American Amber / Red Ale,8.50 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,6.50 %,"('ltable_Brew_Factory_Name', 'ltable_Style', 'ltable_ABV')",0.01658893

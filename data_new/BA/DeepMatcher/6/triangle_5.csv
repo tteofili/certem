@@ -1,0 +1,17 @@
+,ltable_Beer_Name,ltable_Brew_Factory_Name,ltable_Style,ltable_ABV,rtable_Beer_Name,rtable_Brew_Factory_Name,rtable_Style,rtable_ABV,alteredAttributes,match_score
+0,Rocket City Red,Straight To Ale,American Amber / Red Ale,5.00 %,Rocket Red Ale,Basil Ts &#40; Red Bank &#41;,Amber Ale,5 %,"{'rtable_Beer_Name', 'rtable_Style', 'rtable_ABV', 'rtable_Brew_Factory_Name'}",0.7019548991680146
+15,Rocket City Red,Straight To Ale,American Amber / Red Ale,5.00 %,Sawdust City Red Rocket Coffee Spiced Stout,Sawdust City Brewing Company,Spice/Herb/Vegetable,5.20 %,,0.2946451008319855
+1,Rocket City Red,Straight To Ale,American Amber / Red Ale,5.00 %,Rocket Red Ale,Sawdust City Brewing Company,Spice/Herb/Vegetable,5.20 %,"('rtable_Beer_Name',)",0.5630384683609009
+2,Rocket City Red,Straight To Ale,American Amber / Red Ale,5.00 %,Sawdust City Red Rocket Coffee Spiced Stout,Basil Ts &#40; Red Bank &#41;,Spice/Herb/Vegetable,5.20 %,"('rtable_Brew_Factory_Name',)",0.26951199769973755
+3,Rocket City Red,Straight To Ale,American Amber / Red Ale,5.00 %,Sawdust City Red Rocket Coffee Spiced Stout,Sawdust City Brewing Company,Amber Ale,5.20 %,"('rtable_Style',)",0.3124671578407288
+4,Rocket City Red,Straight To Ale,American Amber / Red Ale,5.00 %,Sawdust City Red Rocket Coffee Spiced Stout,Sawdust City Brewing Company,Spice/Herb/Vegetable,5 %,"('rtable_ABV',)",0.3958573937416077
+5,Rocket City Red,Straight To Ale,American Amber / Red Ale,5.00 %,Rocket Red Ale,Basil Ts &#40; Red Bank &#41;,Spice/Herb/Vegetable,5.20 %,"('rtable_Beer_Name', 'rtable_Brew_Factory_Name')",0.4982220828533173
+6,Rocket City Red,Straight To Ale,American Amber / Red Ale,5.00 %,Rocket Red Ale,Sawdust City Brewing Company,Amber Ale,5.20 %,"('rtable_Beer_Name', 'rtable_Style')",0.5672487616539001
+7,Rocket City Red,Straight To Ale,American Amber / Red Ale,5.00 %,Rocket Red Ale,Sawdust City Brewing Company,Spice/Herb/Vegetable,5 %,"('rtable_Beer_Name', 'rtable_ABV')",0.6537973284721375
+8,Rocket City Red,Straight To Ale,American Amber / Red Ale,5.00 %,Sawdust City Red Rocket Coffee Spiced Stout,Basil Ts &#40; Red Bank &#41;,Amber Ale,5.20 %,"('rtable_Brew_Factory_Name', 'rtable_Style')",0.2706194818019867
+9,Rocket City Red,Straight To Ale,American Amber / Red Ale,5.00 %,Sawdust City Red Rocket Coffee Spiced Stout,Basil Ts &#40; Red Bank &#41;,Spice/Herb/Vegetable,5 %,"('rtable_Brew_Factory_Name', 'rtable_ABV')",0.3463961184024811
+10,Rocket City Red,Straight To Ale,American Amber / Red Ale,5.00 %,Sawdust City Red Rocket Coffee Spiced Stout,Sawdust City Brewing Company,Amber Ale,5 %,"('rtable_Style', 'rtable_ABV')",0.3982115387916565
+11,Rocket City Red,Straight To Ale,American Amber / Red Ale,5.00 %,Rocket Red Ale,Basil Ts &#40; Red Bank &#41;,Amber Ale,5.20 %,"('rtable_Beer_Name', 'rtable_Brew_Factory_Name', 'rtable_Style')",0.501846432685852
+12,Rocket City Red,Straight To Ale,American Amber / Red Ale,5.00 %,Rocket Red Ale,Basil Ts &#40; Red Bank &#41;,Spice/Herb/Vegetable,5 %,"('rtable_Beer_Name', 'rtable_Brew_Factory_Name', 'rtable_ABV')",0.5901216864585876
+13,Rocket City Red,Straight To Ale,American Amber / Red Ale,5.00 %,Rocket Red Ale,Sawdust City Brewing Company,Amber Ale,5 %,"('rtable_Beer_Name', 'rtable_Style', 'rtable_ABV')",0.6580522060394287
+14,Rocket City Red,Straight To Ale,American Amber / Red Ale,5.00 %,Sawdust City Red Rocket Coffee Spiced Stout,Basil Ts &#40; Red Bank &#41;,Amber Ale,5 %,"('rtable_Brew_Factory_Name', 'rtable_Style', 'rtable_ABV')",0.3480954468250275

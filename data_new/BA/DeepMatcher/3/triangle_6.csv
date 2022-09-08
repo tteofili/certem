@@ -1,0 +1,17 @@
+,ltable_Beer_Name,ltable_Brew_Factory_Name,ltable_Style,ltable_ABV,rtable_Beer_Name,rtable_Brew_Factory_Name,rtable_Style,rtable_ABV,alteredAttributes,match_score
+0,Clifford 's Big Red Ale,Funky Buddha Brewery,American Amber / Red Ale,9.70 %,Red Ale,NOLA - New Orleans Lager & Ale,Amber Ale,5.70 %,"{'rtable_Beer_Name', 'rtable_Style', 'rtable_ABV', 'rtable_Brew_Factory_Name'}",0.9140792617559433
+15,Clifford 's Big Red Ale,Funky Buddha Brewery,American Amber / Red Ale,9.70 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,6.50 %,,0.0825207382440567
+1,Clifford 's Big Red Ale,Funky Buddha Brewery,American Amber / Red Ale,9.70 %,Red Ale,Big Island Brewhaus,American Strong Ale,6.50 %,"('rtable_Beer_Name',)",0.3165800869464874
+2,Clifford 's Big Red Ale,Funky Buddha Brewery,American Amber / Red Ale,9.70 %,Big Island Red Giant Ale,NOLA - New Orleans Lager & Ale,American Strong Ale,6.50 %,"('rtable_Brew_Factory_Name',)",0.0792364850640297
+3,Clifford 's Big Red Ale,Funky Buddha Brewery,American Amber / Red Ale,9.70 %,Big Island Red Giant Ale,Big Island Brewhaus,Amber Ale,6.50 %,"('rtable_Style',)",0.1088886335492134
+4,Clifford 's Big Red Ale,Funky Buddha Brewery,American Amber / Red Ale,9.70 %,Big Island Red Giant Ale,Big Island Brewhaus,American Strong Ale,5.70 %,"('rtable_ABV',)",0.11722760647535325
+5,Clifford 's Big Red Ale,Funky Buddha Brewery,American Amber / Red Ale,9.70 %,Red Ale,NOLA - New Orleans Lager & Ale,American Strong Ale,6.50 %,"('rtable_Beer_Name', 'rtable_Brew_Factory_Name')",0.29181310534477234
+6,Clifford 's Big Red Ale,Funky Buddha Brewery,American Amber / Red Ale,9.70 %,Red Ale,Big Island Brewhaus,Amber Ale,6.50 %,"('rtable_Beer_Name', 'rtable_Style')",0.3914080560207367
+7,Clifford 's Big Red Ale,Funky Buddha Brewery,American Amber / Red Ale,9.70 %,Red Ale,Big Island Brewhaus,American Strong Ale,5.70 %,"('rtable_Beer_Name', 'rtable_ABV')",0.4353259801864624
+8,Clifford 's Big Red Ale,Funky Buddha Brewery,American Amber / Red Ale,9.70 %,Big Island Red Giant Ale,NOLA - New Orleans Lager & Ale,Amber Ale,6.50 %,"('rtable_Brew_Factory_Name', 'rtable_Style')",0.1019001603126526
+9,Clifford 's Big Red Ale,Funky Buddha Brewery,American Amber / Red Ale,9.70 %,Big Island Red Giant Ale,NOLA - New Orleans Lager & Ale,American Strong Ale,5.70 %,"('rtable_Brew_Factory_Name', 'rtable_ABV')",0.10887271910905838
+10,Clifford 's Big Red Ale,Funky Buddha Brewery,American Amber / Red Ale,9.70 %,Big Island Red Giant Ale,Big Island Brewhaus,Amber Ale,5.70 %,"('rtable_Style', 'rtable_ABV')",0.15053004026412964
+11,Clifford 's Big Red Ale,Funky Buddha Brewery,American Amber / Red Ale,9.70 %,Red Ale,NOLA - New Orleans Lager & Ale,Amber Ale,6.50 %,"('rtable_Beer_Name', 'rtable_Brew_Factory_Name', 'rtable_Style')",0.3637644946575165
+12,Clifford 's Big Red Ale,Funky Buddha Brewery,American Amber / Red Ale,9.70 %,Red Ale,NOLA - New Orleans Lager & Ale,American Strong Ale,5.70 %,"('rtable_Beer_Name', 'rtable_Brew_Factory_Name', 'rtable_ABV')",0.40568089485168457
+13,Clifford 's Big Red Ale,Funky Buddha Brewery,American Amber / Red Ale,9.70 %,Red Ale,Big Island Brewhaus,Amber Ale,5.70 %,"('rtable_Beer_Name', 'rtable_Style', 'rtable_ABV')",0.5178429484367371
+14,Clifford 's Big Red Ale,Funky Buddha Brewery,American Amber / Red Ale,9.70 %,Big Island Red Giant Ale,NOLA - New Orleans Lager & Ale,Amber Ale,5.70 %,"('rtable_Brew_Factory_Name', 'rtable_Style', 'rtable_ABV')",0.1399288922548294

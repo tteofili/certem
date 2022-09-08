@@ -1,0 +1,17 @@
+,ltable_Beer_Name,ltable_Brew_Factory_Name,ltable_Style,ltable_ABV,rtable_Beer_Name,rtable_Brew_Factory_Name,rtable_Style,rtable_ABV,alteredAttributes,match_score
+0,Twisted Stick Amber Ale,Portneuf Valley Brewing,American Amber / Red Ale,-,5 Seasons North Cloud 9 Barleywine,5 Seasons,Barley Wine,10.40 %,"{'rtable_ABV', 'rtable_Brew_Factory_Name', 'rtable_Style', 'rtable_Beer_Name'}",0.016588930040597916
+15,Twisted Stick Amber Ale,Portneuf Valley Brewing,American Amber / Red Ale,-,Sick N Twisted Pleasure Victim Amber Ale,Sick N Twisted Brewing Company,Amber Ale,5.50 %,,0.6941395998001099
+1,Twisted Stick Amber Ale,Portneuf Valley Brewing,American Amber / Red Ale,-,5 Seasons North Cloud 9 Barleywine,Sick N Twisted Brewing Company,Amber Ale,5.50 %,"('rtable_Beer_Name',)",0.01658893
+2,Twisted Stick Amber Ale,Portneuf Valley Brewing,American Amber / Red Ale,-,Sick N Twisted Pleasure Victim Amber Ale,5 Seasons,Amber Ale,5.50 %,"('rtable_Brew_Factory_Name',)",0.98545593
+3,Twisted Stick Amber Ale,Portneuf Valley Brewing,American Amber / Red Ale,-,Sick N Twisted Pleasure Victim Amber Ale,Sick N Twisted Brewing Company,Barley Wine,5.50 %,"('rtable_Style',)",0.86842304
+4,Twisted Stick Amber Ale,Portneuf Valley Brewing,American Amber / Red Ale,-,Sick N Twisted Pleasure Victim Amber Ale,Sick N Twisted Brewing Company,Amber Ale,10.40 %,"('rtable_ABV',)",0.6583994000000001
+5,Twisted Stick Amber Ale,Portneuf Valley Brewing,American Amber / Red Ale,-,5 Seasons North Cloud 9 Barleywine,5 Seasons,Amber Ale,5.50 %,"('rtable_Beer_Name', 'rtable_Brew_Factory_Name')",0.01658893
+6,Twisted Stick Amber Ale,Portneuf Valley Brewing,American Amber / Red Ale,-,5 Seasons North Cloud 9 Barleywine,Sick N Twisted Brewing Company,Barley Wine,5.50 %,"('rtable_Beer_Name', 'rtable_Style')",0.019697836
+7,Twisted Stick Amber Ale,Portneuf Valley Brewing,American Amber / Red Ale,-,5 Seasons North Cloud 9 Barleywine,Sick N Twisted Brewing Company,Amber Ale,10.40 %,"('rtable_Beer_Name', 'rtable_ABV')",0.12689212
+8,Twisted Stick Amber Ale,Portneuf Valley Brewing,American Amber / Red Ale,-,Sick N Twisted Pleasure Victim Amber Ale,5 Seasons,Barley Wine,5.50 %,"('rtable_Brew_Factory_Name', 'rtable_Style')",0.97827905
+9,Twisted Stick Amber Ale,Portneuf Valley Brewing,American Amber / Red Ale,-,Sick N Twisted Pleasure Victim Amber Ale,5 Seasons,Amber Ale,10.40 %,"('rtable_Brew_Factory_Name', 'rtable_ABV')",0.73767984
+10,Twisted Stick Amber Ale,Portneuf Valley Brewing,American Amber / Red Ale,-,Sick N Twisted Pleasure Victim Amber Ale,Sick N Twisted Brewing Company,Barley Wine,10.40 %,"('rtable_Style', 'rtable_ABV')",0.8413980999999999
+11,Twisted Stick Amber Ale,Portneuf Valley Brewing,American Amber / Red Ale,-,5 Seasons North Cloud 9 Barleywine,5 Seasons,Barley Wine,5.50 %,"('rtable_Beer_Name', 'rtable_Brew_Factory_Name', 'rtable_Style')",0.019309297
+12,Twisted Stick Amber Ale,Portneuf Valley Brewing,American Amber / Red Ale,-,5 Seasons North Cloud 9 Barleywine,5 Seasons,Amber Ale,10.40 %,"('rtable_Beer_Name', 'rtable_Brew_Factory_Name', 'rtable_ABV')",0.01658893
+13,Twisted Stick Amber Ale,Portneuf Valley Brewing,American Amber / Red Ale,-,5 Seasons North Cloud 9 Barleywine,Sick N Twisted Brewing Company,Barley Wine,10.40 %,"('rtable_Beer_Name', 'rtable_Style', 'rtable_ABV')",0.37047383
+14,Twisted Stick Amber Ale,Portneuf Valley Brewing,American Amber / Red Ale,-,Sick N Twisted Pleasure Victim Amber Ale,5 Seasons,Barley Wine,10.40 %,"('rtable_Brew_Factory_Name', 'rtable_Style', 'rtable_ABV')",0.8215321

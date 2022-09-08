@@ -1,0 +1,17 @@
+,ltable_Beer_Name,ltable_Brew_Factory_Name,ltable_Style,ltable_ABV,rtable_Beer_Name,rtable_Brew_Factory_Name,rtable_Style,rtable_ABV,alteredAttributes,match_score
+0,Twisted Stick Amber Ale,Portneuf Valley Brewing,American Amber / Red Ale,-,Chatham Amber,Brewing,Amber Ale,-,"{'rtable_Beer_Name', 'rtable_Style', 'rtable_ABV', 'rtable_Brew_Factory_Name'}",0.9241404810905457
+15,Twisted Stick Amber Ale,Portneuf Valley Brewing,American Amber / Red Ale,-,Sick N Twisted Pleasure Victim Amber Ale,Sick N Twisted Brewing Company,Amber Ale,5.50 %,,0.07245951890945435
+1,Twisted Stick Amber Ale,Portneuf Valley Brewing,American Amber / Red Ale,-,Chatham Amber,Sick N Twisted Brewing Company,Amber Ale,5.50 %,"('rtable_Beer_Name',)",0.6145488023757935
+2,Twisted Stick Amber Ale,Portneuf Valley Brewing,American Amber / Red Ale,-,Sick N Twisted Pleasure Victim Amber Ale,Brewing,Amber Ale,5.50 %,"('rtable_Brew_Factory_Name',)",0.07819400727748871
+3,Twisted Stick Amber Ale,Portneuf Valley Brewing,American Amber / Red Ale,-,Sick N Twisted Pleasure Victim Amber Ale,Sick N Twisted Brewing Company,Amber Ale,5.50 %,"('rtable_Style',)",0.07245951890945435
+4,Twisted Stick Amber Ale,Portneuf Valley Brewing,American Amber / Red Ale,-,Sick N Twisted Pleasure Victim Amber Ale,Sick N Twisted Brewing Company,Amber Ale,-,"('rtable_ABV',)",0.07014916092157364
+5,Twisted Stick Amber Ale,Portneuf Valley Brewing,American Amber / Red Ale,-,Chatham Amber,Brewing,Amber Ale,5.50 %,"('rtable_Beer_Name', 'rtable_Brew_Factory_Name')",0.6558879017829895
+6,Twisted Stick Amber Ale,Portneuf Valley Brewing,American Amber / Red Ale,-,Chatham Amber,Sick N Twisted Brewing Company,Amber Ale,5.50 %,"('rtable_Beer_Name', 'rtable_Style')",0.6145488023757935
+7,Twisted Stick Amber Ale,Portneuf Valley Brewing,American Amber / Red Ale,-,Chatham Amber,Sick N Twisted Brewing Company,Amber Ale,-,"('rtable_Beer_Name', 'rtable_ABV')",0.6008093953132629
+8,Twisted Stick Amber Ale,Portneuf Valley Brewing,American Amber / Red Ale,-,Sick N Twisted Pleasure Victim Amber Ale,Brewing,Amber Ale,5.50 %,"('rtable_Brew_Factory_Name', 'rtable_Style')",0.07819398492574693
+9,Twisted Stick Amber Ale,Portneuf Valley Brewing,American Amber / Red Ale,-,Sick N Twisted Pleasure Victim Amber Ale,Brewing,Amber Ale,-,"('rtable_Brew_Factory_Name', 'rtable_ABV')",0.0756930261850357
+10,Twisted Stick Amber Ale,Portneuf Valley Brewing,American Amber / Red Ale,-,Sick N Twisted Pleasure Victim Amber Ale,Sick N Twisted Brewing Company,Amber Ale,-,"('rtable_Style', 'rtable_ABV')",0.07014916092157364
+11,Twisted Stick Amber Ale,Portneuf Valley Brewing,American Amber / Red Ale,-,Chatham Amber,Brewing,Amber Ale,5.50 %,"('rtable_Beer_Name', 'rtable_Brew_Factory_Name', 'rtable_Style')",0.6558879017829895
+12,Twisted Stick Amber Ale,Portneuf Valley Brewing,American Amber / Red Ale,-,Chatham Amber,Brewing,Amber Ale,-,"('rtable_Beer_Name', 'rtable_Brew_Factory_Name', 'rtable_ABV')",0.6426218152046204
+13,Twisted Stick Amber Ale,Portneuf Valley Brewing,American Amber / Red Ale,-,Chatham Amber,Sick N Twisted Brewing Company,Amber Ale,-,"('rtable_Beer_Name', 'rtable_Style', 'rtable_ABV')",0.6008093953132629
+14,Twisted Stick Amber Ale,Portneuf Valley Brewing,American Amber / Red Ale,-,Sick N Twisted Pleasure Victim Amber Ale,Brewing,Amber Ale,-,"('rtable_Brew_Factory_Name', 'rtable_Style', 'rtable_ABV')",0.07569301128387451

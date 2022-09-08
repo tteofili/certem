@@ -1,0 +1,17 @@
+,ltable_Beer_Name,ltable_Brew_Factory_Name,ltable_Style,ltable_ABV,rtable_Beer_Name,rtable_Brew_Factory_Name,rtable_Style,rtable_ABV,alteredAttributes,match_score
+0,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Black Sky Imperial Petal,Black Sky Brewery,Spice/Herb/Vegetable,9 %,"{'rtable_ABV', 'rtable_Brew_Factory_Name', 'rtable_Style', 'rtable_Beer_Name'}",0.016588930040597916
+15,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,,0.9985583424568176
+1,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Black Sky Imperial Petal,Ca l_Arenys - Cervezas Guineu,Amber Ale,6.90 %,"('rtable_Beer_Name',)",0.8204214
+2,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Black Sky Brewery,Amber Ale,6.90 %,"('rtable_Brew_Factory_Name',)",0.9999565
+3,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Spice/Herb/Vegetable,6.90 %,"('rtable_Style',)",0.99998283
+4,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Amber Ale,9 %,"('rtable_ABV',)",0.99998844
+5,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Black Sky Imperial Petal,Black Sky Brewery,Amber Ale,6.90 %,"('rtable_Beer_Name', 'rtable_Brew_Factory_Name')",0.8427534
+6,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Black Sky Imperial Petal,Ca l_Arenys - Cervezas Guineu,Spice/Herb/Vegetable,6.90 %,"('rtable_Beer_Name', 'rtable_Style')",0.18458463
+7,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Black Sky Imperial Petal,Ca l_Arenys - Cervezas Guineu,Amber Ale,9 %,"('rtable_Beer_Name', 'rtable_ABV')",0.43753865
+8,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Black Sky Brewery,Spice/Herb/Vegetable,6.90 %,"('rtable_Brew_Factory_Name', 'rtable_Style')",0.9994892
+9,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Black Sky Brewery,Amber Ale,9 %,"('rtable_Brew_Factory_Name', 'rtable_ABV')",0.9995690999999999
+10,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Ca l_Arenys - Cervezas Guineu,Spice/Herb/Vegetable,9 %,"('rtable_Style', 'rtable_ABV')",0.99997425
+11,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Black Sky Imperial Petal,Black Sky Brewery,Spice/Herb/Vegetable,6.90 %,"('rtable_Beer_Name', 'rtable_Brew_Factory_Name', 'rtable_Style')",0.06884883
+12,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Black Sky Imperial Petal,Black Sky Brewery,Amber Ale,9 %,"('rtable_Beer_Name', 'rtable_Brew_Factory_Name', 'rtable_ABV')",0.054955486
+13,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Black Sky Imperial Petal,Ca l_Arenys - Cervezas Guineu,Spice/Herb/Vegetable,9 %,"('rtable_Beer_Name', 'rtable_Style', 'rtable_ABV')",0.48624256
+14,Jazz Beer Tarraco Amber,Tarraco Beer,American Amber / Red Ale,6.90 %,Jazz Beer Tarraco Amber,Black Sky Brewery,Spice/Herb/Vegetable,9 %,"('rtable_Brew_Factory_Name', 'rtable_Style', 'rtable_ABV')",0.9999839

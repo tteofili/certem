@@ -1,0 +1,17 @@
+,ltable_Beer_Name,ltable_Brew_Factory_Name,ltable_Style,ltable_ABV,rtable_Beer_Name,rtable_Brew_Factory_Name,rtable_Style,rtable_ABV,alteredAttributes,match_score
+0,Aqula American Amber Ale,Bier Kaffee Aqula,American Amber / Red Ale,4.50 %,American Red Ale,Stadin Panimo,Amber Ale,4.50 %,"{'rtable_ABV', 'rtable_Brew_Factory_Name', 'rtable_Style', 'rtable_Beer_Name'}",0.8347643613815308
+15,Aqula American Amber Ale,Bier Kaffee Aqula,American Amber / Red Ale,4.50 %,Heavy Seas Desert Island Series American Honey Amber Ale,Heavy Seas Brewing Company,Amber Ale,4.90 %,,0.16183564066886902
+1,Aqula American Amber Ale,Bier Kaffee Aqula,American Amber / Red Ale,4.50 %,American Red Ale,Heavy Seas Brewing Company,Amber Ale,4.90 %,"('rtable_Beer_Name',)",0.9450052999999999
+2,Aqula American Amber Ale,Bier Kaffee Aqula,American Amber / Red Ale,4.50 %,Heavy Seas Desert Island Series American Honey Amber Ale,Stadin Panimo,Amber Ale,4.90 %,"('rtable_Brew_Factory_Name',)",0.22169392
+3,Aqula American Amber Ale,Bier Kaffee Aqula,American Amber / Red Ale,4.50 %,Heavy Seas Desert Island Series American Honey Amber Ale,Heavy Seas Brewing Company,Amber Ale,4.90 %,"('rtable_Style',)",0.09431021
+4,Aqula American Amber Ale,Bier Kaffee Aqula,American Amber / Red Ale,4.50 %,Heavy Seas Desert Island Series American Honey Amber Ale,Heavy Seas Brewing Company,Amber Ale,4.50 %,"('rtable_ABV',)",0.08817714
+5,Aqula American Amber Ale,Bier Kaffee Aqula,American Amber / Red Ale,4.50 %,American Red Ale,Stadin Panimo,Amber Ale,4.90 %,"('rtable_Beer_Name', 'rtable_Brew_Factory_Name')",0.06196969
+6,Aqula American Amber Ale,Bier Kaffee Aqula,American Amber / Red Ale,4.50 %,American Red Ale,Heavy Seas Brewing Company,Amber Ale,4.90 %,"('rtable_Beer_Name', 'rtable_Style')",0.9450052999999999
+7,Aqula American Amber Ale,Bier Kaffee Aqula,American Amber / Red Ale,4.50 %,American Red Ale,Heavy Seas Brewing Company,Amber Ale,4.50 %,"('rtable_Beer_Name', 'rtable_ABV')",0.9368716999999999
+8,Aqula American Amber Ale,Bier Kaffee Aqula,American Amber / Red Ale,4.50 %,Heavy Seas Desert Island Series American Honey Amber Ale,Stadin Panimo,Amber Ale,4.90 %,"('rtable_Brew_Factory_Name', 'rtable_Style')",0.22169392
+9,Aqula American Amber Ale,Bier Kaffee Aqula,American Amber / Red Ale,4.50 %,Heavy Seas Desert Island Series American Honey Amber Ale,Stadin Panimo,Amber Ale,4.50 %,"('rtable_Brew_Factory_Name', 'rtable_ABV')",0.22936916
+10,Aqula American Amber Ale,Bier Kaffee Aqula,American Amber / Red Ale,4.50 %,Heavy Seas Desert Island Series American Honey Amber Ale,Heavy Seas Brewing Company,Amber Ale,4.50 %,"('rtable_Style', 'rtable_ABV')",0.08817714
+11,Aqula American Amber Ale,Bier Kaffee Aqula,American Amber / Red Ale,4.50 %,American Red Ale,Stadin Panimo,Amber Ale,4.90 %,"('rtable_Beer_Name', 'rtable_Brew_Factory_Name', 'rtable_Style')",0.06196969
+12,Aqula American Amber Ale,Bier Kaffee Aqula,American Amber / Red Ale,4.50 %,American Red Ale,Stadin Panimo,Amber Ale,4.50 %,"('rtable_Beer_Name', 'rtable_Brew_Factory_Name', 'rtable_ABV')",0.05932814
+13,Aqula American Amber Ale,Bier Kaffee Aqula,American Amber / Red Ale,4.50 %,American Red Ale,Heavy Seas Brewing Company,Amber Ale,4.50 %,"('rtable_Beer_Name', 'rtable_Style', 'rtable_ABV')",0.9368716999999999
+14,Aqula American Amber Ale,Bier Kaffee Aqula,American Amber / Red Ale,4.50 %,Heavy Seas Desert Island Series American Honey Amber Ale,Stadin Panimo,Amber Ale,4.50 %,"('rtable_Brew_Factory_Name', 'rtable_Style', 'rtable_ABV')",0.22936916
