@@ -12,7 +12,7 @@ In order to run *CERTEM* within a _Jupyter Notebook_ you just need to import ``c
 
 If you extend or use this work, please consider citing the following papers:
 
-[CERTEM]()
+[CERTEM](https://www.vldb.org/pvldb/vol15/p3642-teofili.pdf)
 ```
 @article{teofili2022certem,
   title={CERTEM: Explaining and Debugging Black-box Entity Resolution Systems with CERTA},
@@ -22,7 +22,7 @@ If you extend or use this work, please consider citing the following papers:
 }
 ```
 
-[CERTA](https://arxiv.org/abs/2203.12978)
+CERTA [paper](https://arxiv.org/abs/2203.12978) and [code](https://github.com/tteofili/certa)
 ```
 @article{teofili2022effective,
   title={Effective Explanations for Entity Resolution Models},
