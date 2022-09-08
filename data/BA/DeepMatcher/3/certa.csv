@@ -1,3 +1,0 @@
-,ltable_Beer_Name,ltable_Brew_Factory_Name,ltable_Style,ltable_ABV,rtable_Beer_Name,rtable_Brew_Factory_Name,rtable_Style,rtable_ABV,nomatch_score,match_score,alteredAttributes,droppedValues,copiedValues,triangle,attr_count
-0,Rocket City Red,Straight To Ale,American Amber / Red Ale,5.00 %,Red,Sawdust City Brewing Company,Spice/Herb/Vegetable,5.20 %,0.2527373433113098,0.7472626566886902,"('rtable_Beer_Name',)",['Sawdust City Red Rocket Coffee Spiced Stout'],['Red'],1@30951 0@1024 1@37,2
-5,Rocket City Red,Straight To Ale,American Amber / Red Ale,5.00 %,Ale,Sawdust City Brewing Company,Spice/Herb/Vegetable,5.20 %,0.37256014347076416,0.6274398565292358,"('rtable_Beer_Name',)",['Sawdust City Red Rocket Coffee Spiced Stout'],['Ale'],1@30956 0@1024 1@37,2
