@@ -1,0 +1,2 @@
+,label,ltable_Beer_Name,ltable_Brew_Factory_Name,ltable_Style,ltable_ABV,rtable_Beer_Name,rtable_Brew_Factory_Name,rtable_Style,rtable_ABV,match_score,nomatch_score,alteredAttributes,droppedValues,copiedValues,triangle,attr_count
+0,,Bourbon Barrel-Aged Old Dipsea With Brett,Mammoth Brewing Company,American Amber / Red Ale,4.50 %,Bourbon Barrel-Aged Old Dipsea With Brett,Mammoth Brewing Company,Altbier,4.50 %,0.9000509560399223119,0.0994904396007769,"('ltable_Beer_Name',)",['Real McCoy Amber Ale'],['Bourbon Barrel-Aged Old Dipsea With Brett'],0@271 1@1410 0@83846,2

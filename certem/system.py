@@ -22,7 +22,7 @@ def custom_plot(df, name):
 
 
 # datasets
-datasets = [name for name in os.listdir("data")]
+datasets = [name for name in os.listdir("data_new")]
 datasets.remove('img')
 
 # training data
@@ -509,7 +509,7 @@ def f(dataset, deeper, dm, ditto, pred_filter, gt_filter):
                             pass
                         cfid += 1
                     user_cb = widgets.Checkbox(value=False, description='User defined CF')
-                    cf_ta = widgets.Text(value='User Define Saliency...')
+                    cf_ta = widgets.Text(value='User Defined CF...')
                     cf_checkboxes.append(user_cb)
                     compare_cf = widgets.VBox(cfm_comp_outs, layout=box_layout)
                     cf_record_button = widgets.Button(description="Record")
