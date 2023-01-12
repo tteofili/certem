@@ -3,9 +3,9 @@ Explanation system for Entity Resolution based on CERTA framework.
 
 # Instructions
 
-In order to run *CERTEM* within a _Jupyter Notebook_ you just need to import ``certem.system`` and then run `display(system.ui)`.
-![](screenshot.png)
-*CERTEM UI*
+In order to run *CERTEM* within a _Jupyter Notebook_ you just need to import ``certem.system`` and then run `display(certem.system.ui)`.
+![*CERTEM UI*](screenshot.png)
+
 
 
 # Citing CERTEM
